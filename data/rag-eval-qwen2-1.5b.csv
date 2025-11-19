@@ -1,0 +1,978 @@
+answer,id,question,relevance,explanation
+"Prep time for vegetables and beans before cooking with a blender should be about 10-20 minutes depending on the complexity of the recipe and how finely chopped or diced the ingredients are. This includes sautéing or stir-frying them until they're fully cooked and ready to blend into your smoothie or salad. The exact preparation time may vary based on personal preferences for taste, texture, and consistency.",20,How long should I prepare vegetables and beans before cooking with blender?,NON_RELEVANT,Failed to parse evaluator response
+"The dietary category of this recipe is Vegan. The ingredients include spinach, quinoa, kale, and egg, which are all plant-based sources of protein and nutrition. Additionally, the recipe calls for avocado toast as a snack option, which also aligns with the vegan diet since it includes avocado, a popular ingredient in many vegan dishes.",166,What is the dietary category of this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"There is no alternative ingredient mentioned in the provided context that could replace cheese in any of these recipes. However, you might consider using other ingredients such as hummus or a plant-based cheese substitute like cashew cheese or tempeh cheese if you need to eliminate cheese from the recipe.",2,Is there any alternative ingredient for cheese in this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"Yes, there is dairy involved in the recipe named ""Keto Chicken Salad"". It contains ingredients such as cucumber, cheese, tofu, chicken, and salmon, which are all dairy products. However, the nutritional information provided for this dish does not list any specific amount of dairy, so it could be assumed that all these ingredients contain some level of dairy.",60,Is there any dairy involved?,NON_RELEVANT,Failed to parse evaluator response
+"There are no known allergens in any of the recipes listed, as all of them are made from ingredients that are commonly available without any known allergic reactions. However, it is always recommended to double check with a trusted nutritionist or allergist before starting a new diet plan.",65,Are there any allergens in this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"Yes, dairy is an allergen in the Mushroom Risotto recipe. It contains mushrooms which are a known allergen for some individuals. To avoid any adverse reactions or health issues, it's recommended to use alternative options such as mushroom-based risotto made with plant-based ingredients instead of dairy.",39,Is dairy an allergen in this Mushroom Risotto recipe?,NON_RELEVANT,Failed to parse evaluator response
+"The nutritional information for the Vegan Quinoa Bowl recipe is:
+- Calories: 204 kcal
+- Protein: 14.8g
+- Carbs: 13.3g
+- Fats: 23.3g
+
+This diet meal can be prepared using an Instant Pot, Air Fryer, Oven, or Stove according to the recipe's instructions for different cooking methods. Note that dairy and gluten are not mentioned as allergens in the provided information.",26,What is the nutritional information for this Vegan Quinoa Bowl recipe?,NON_RELEVANT,Failed to parse evaluator response
+"Yes, dairy is used in the recipe called Chili Con Carne. This dish includes milk as one of its ingredients.",4,Is any dairy used in this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"The equipment needed to prepare Falafel Wrap is an Instant Pot, Grill.",58,What equipment is needed to prepare this dish?,NON_RELEVANT,Failed to parse evaluator response
+"The nutritional information of this recipe is as follows:
+
+recipe_name: Spaghetti Carbonara
+meal_type: Lunch
+dietary_category: Keto
+ingredients: kale, garlic, cucumber, quinoa, onion
+equipment_needed: Blender, Stove
+nutritional_information: kcal: 403, Protein: 14.4g, Carbs: 31.2g, Fats: 31.1g
+
+recipe_name: Greek Salad
+meal_type: Lunch
+dietary_category: Vegetarian
+ingredients: tomato, broccoli, egg, onion, bell pepper
+equipment_needed: Air Fryer, Grill
+nutritional_information: kcal: 625, Protein: 11.5g, Carbs: 47.1g, Fats: 9.0g
+
+recipe_name: Avocado Toast
+meal_type: Dinner
+dietary_category: Keto
+ingredients: cheese, milk, quinoa, beans, chicken
+equipment_needed: Blender, Stove
+nutritional_information: kcal: 184, Protein: 8.8g, Carbs: 28.1g, Fats: 2.3g
+
+recipe_name: Chicken Stir-Fry
+meal_type: Snack
+dietary_category: Paleo
+ingredients: mushroom, cucumber, bell pepper, egg, beans
+equipment_needed: Blender, Stove
+nutritional_information: kcal: 593, Protein: 10.3g, Carbs: 17.7g, Fats: 19.0g
+
+recipe_name: Vegetable Stir-Fry
+meal_type: Dinner
+dietary_category: Vegan
+ingredients: egg, spinach, cheese, beans, avocado
+equipment_needed: Air Fryer, Grill
+nutritional_information: kcal: 582, Protein: 18.0g, Carbs: 62.7g, Fats: 9.5g
+
+recipe_name: Caesar Salad
+meal_type: Breakfast
+dietary_category: Vegetarian
+ingredients: spinach, broccoli, cheese, beans, cucumber
+equipment_needed: Stove, Blender
+nutritional_information: kcal: 353, Protein: 9.0g, Carbs: 33.1g, Fats: 4.8g
+
+recipe_name: Turkey Sandwich
+meal_type: Snack
+dietary_category: Gluten-Free
+ingredients: chicken, carrot, onion, spinach, mushroom
+equipment_needed: Oven, Stove
+nutritional_information: kcal: 356, Protein: 10.3g, Carbs: 75.3g, Fats: 33.2g
+
+recipe_name: Oatmeal with Berries
+meal_type: Dinner
+dietary_category: Vegan
+ingredients: milk, quinoa, onion, tofu, spinach
+equipment_needed: Blender, Oven
+nutritional_information: kcal: 603, Protein: 30.5g, Carbs: 62.3g, Fats: 11.0g
+
+recipe_name: Lentil Soup
+meal_type: Dinner
+dietary_category: Paleo
+ingredients: chicken, tomato, beans, tofu, milk
+equipment_needed: Instant Pot, Microwave
+nutritional_information: kcal: 519, Protein: 10.3g, Carbs: 35.1g, Fats: 13.4g
+
+recipe_name: Turkey Sandwich
+meal_type: Snack
+dietary_category: Gluten-Free
+ingredients: chicken, carrot, onion, spinach, mushroom
+equipment_needed: Oven, Stove
+nutritional_information: kcal: 356, Protein: 10.3g, Carbs: 75.3g, Fats: 33.2g",195,What is the nutritional information of this recipe?,NON_RELEVANT,"The generated answer provides nutritional information for multiple recipes, but the question specifically asks about 'this recipe'. Since there is no context or identification of the specific recipe in the question, the generated answer is not relevant to the given query."
+"The protein content of this recipe (Greek Salad) is not provided in the given context. The nutritional information for the recipe only contains a calorie count, protein content, carbohydrates, and fats, without specifying individual ingredients or their quantities. This means that there may be different amounts of protein per serving depending on how many ingredients are used to make the dish.",120,What is the protein content of this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"Yes, you can substitute kale with other vegetables for this recipe based on the nutritional information provided in the context. In this case, you could replace kale with broccoli or spinach to meet your dietary needs and preferences without compromising the taste of the dish. Additionally, using a variety of ingredients can enrich the flavor profile of the meal while maintaining its health benefits.",133,Can I substitute kale with other vegetables for this recipe?,NON_RELEVANT,Failed to parse evaluator response
+Vegetarian/Plant-based,189,What is the dietary category of this recipe?,PARTLY_RELEVANT,"The generated answer 'Vegetarian/Plant-based' is partially relevant to the question as it does provide information about the dietary category. However, it lacks specificity and context regarding the exact nature of the recipe (e.g., dairy-free, gluten-free) that might be implied by the term 'dietary category'."
+"Yes, you can substitute tofu for salmon in this recipe. Tofu can be used as a nutritious protein alternative in place of salmon. It provides the same amount of protein (14.1g) but with less fat and calories per serving. Adjust the cooking time accordingly to ensure adequate preparation before serving. Enjoy your meal!",197,Can I substitute tofu for salmon in this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"It is recommended to chill the mixture for at least 30 minutes before enjoying Spaghetti Carbonara. This will allow the flavors of the ingredients to meld together and enhance the overall taste. However, if you are in a rush or want a quick snack, you can also enjoy it straight away without chilling.",128,How long should I chill the mixture before enjoying it?,NON_RELEVANT,Failed to parse evaluator response
+The recipe name provided does not include any information about how long to grill the vegetables in relation to the other recipes. Please provide the correct recipe name or the information you need regarding the cooking time for the vegetables.,15,How long should I grill the vegetables for?,NON_RELEVANT,Failed to parse evaluator response
+"Yes, the dish can be made gluten-free by substituting quinoa for the rice in the lentil soup recipe. However, keep in mind that some of the ingredients used (such as broccoli and garlic) may also have traces of gluten. To ensure complete safety, it's recommended to double-check with a nutritionist or allergist for further guidance.",142,Is it possible to make this dish gluten-free?,NON_RELEVANT,Failed to parse evaluator response
+"There are no additional instructions provided for the recipe, so there is nothing else you should keep in mind while preparing this recipe. Please note that all ingredients and equipment listed above may vary depending on the specific dish or recipe chosen from the list.",154,Is there anything else I should keep in mind while preparing this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"The nutritional information for this recipe is as follows:
+
+- Spaghetti Carbonara:
+  - Calories: 403 kcal
+  - Protein: 14.4g
+  - Carbohydrates: 31.2g
+  - Fats: 31.1g
+
+- Greek Salad:
+  - Calories: 625 kcal
+  - Protein: 11.5g
+  - Carbohydrates: 47.1g
+  - Fats: 9.0g
+
+- Chicken Stir-Fry:
+  - Calories: 593 kcal
+  - Protein: 10.3g
+  - Carbohydrates: 17.7g
+  - Fats: 19.0g
+
+- Avocado Toast:
+  - Calories: 184 kcal
+  - Protein: 8.8g
+  - Carbohydrates: 28.1g
+  - Fats: 2.3g
+
+- Vegetable Stir-Fry:
+  - Calories: 582 kcal
+  - Protein: 18.0g
+  - Carbohydrates: 62.7g
+  - Fats: 9.5g
+
+- Caesar Salad:
+  - Calories: 353 kcal
+  - Protein: 9.0g
+  - Carbohydrates: 33.1g
+  - Fats: 4.8g
+
+- Vegetable Stir-Fry:
+  - Calories: 582 kcal
+  - Protein: 18.0g
+  - Carbohydrates: 62.7g
+  - Fats: 9.5g
+
+- Caesar Salad:
+  - Calories: 353 kcal
+  - Protein: 9.0g
+  - Carbohydrates: 33.1g
+  - Fats: 4.8g
+
+- Tomato and Broccoli Salad:
+  - Calories: 271 kcal
+  - Protein: 6.5g
+  - Carbohydrates: 34.1g
+  - Fats: 0.9g
+
+- Turkey sandwich:
+  - Calories: 356 kcal
+  - Protein: 10.3g
+  - Carbohydrates: 75.3g
+  - Fats: 33.2g
+
+- Oatmeal with Berries:
+  - Calories: 603 kcal
+  - Protein: 30.5g
+  - Carbohydrates: 62.3g
+  - Fats: 11.0g
+
+- Turkey sandwich:
+  - Calories: 356 kcal
+  - Protein: 10.3g
+  - Carbohydrates: 75.3g
+  - Fats: 33.2g
+
+- Turkey sandwich:
+  - Calories: 356 kcal
+  - Protein: 10.3g
+  - Carbohydrates: 75.3g
+  - Fats: 33.2g",28,What is the nutritional information for this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"This recipe can be cooked in an oven, grill, or stove according to the equipment needed. For example, using a Grill to cook means heating it and starting cooking the ingredients there, while using an Oven heats a preheated pan or dish for cooking. If you're looking at blending this smoothie bowl, you might want to consider using your blender on the highest setting if available to get the best results from a smooth texture. So the answer is Yes, you can cook or blend this recipe in an oven or grill as specified, with options ranging from heating it directly and cooking ingredients there (like Grilling), to preheating equipment and starting the process within that heated environment.
+
+recipe_name: Veggie Stir-Fry
+meal_type: Dinner
+dietary_category: Gluten-Free
+ingredients: cheese, cucumber, carrot, salmon, chicken
+equipment_needed: Oven, Grill
+nutritional_information: 459 kcal, Protein: 36.5g, Carbs: 38.5g, Fats: 6.0g
+instructions: 1. Mix all ingredients in a bowl. 2. Use Grill to cook or blend. 3. Serve with your favorite topping.
+allergens: Shellfish
+prep_time_minutes: 37
+
+recipe_name: Smoothie Bowl
+meal_type: Dinner
+dietary_category: Gluten-Free
+ingredients: cheese, cucumber, carrot, salmon, chicken
+equipment_needed: Oven, Grill
+nutritional_information: 459 kcal, Protein: 36.5g, Carbs: 38.5g, Fats: 6.0g
+instructions: 1. Mix all ingredients in a bowl. 2. Use Grill to cook or blend. 3. Serve with your favorite topping.
+allergens: Shellfish
+prep_time_minutes: 37
+
+Both recipes involve cooking and blending ingredients in an oven or grill, so you can choose the equipment based on what's available at home. For example, if you're more comfortable cooking over a stove, you might use that method for both recipes, while Grilling would be ideal for one of them (depending on personal preference). In either case, the prep time is around 40 minutes for each recipe.",180,Can I cook or blend this recipe in an oven or grill?,NON_RELEVANT,Failed to parse evaluator response
+"For the Vegetable Stir-Fry recipe, you should use approximately 1 cup of milk for this recipe. Make sure to adjust according to the ingredients and portions mentioned in the context. The preparation time for this recipe is typically around 40 minutes, including cooking the vegetables and preparing them for frying or stir-frying. Additionally, it's a good practice to always measure out your ingredients precisely, especially when making recipes with specific nutritional values listed. If you have any further questions about measurements or adjustments in the recipe, feel free to ask!",87,How much milk should I use for this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"There is dairy in the recipe ""Greek Salad."" This dish includes ingredients like broccoli, garlic, cucumber, tomato, and kale which are classified as dairy. The nutritional information provided for this recipe states that it contains 276 kcal, a protein of 6.6g, carbs of 33.5g, and fats of 4.1g. Keep in mind that the total caloric content is based on 1 serving (assuming half the portion size), which might not correspond to what you'd typically consume if consuming this recipe alone. Please consult nutritional labels for more accurate information about each ingredient's dairy content.",83,Is there any dairy in this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"The nutritional information mentioned for the Spaghetti Carbonara includes a total of 403 kcal, with a protein content of 14.4g, carbohydrates at 31.2g, and fats of 31.1g. The recipe also suggests cooking cucumber first, let it cool slightly before serving.
+
+For Greek Salad, the nutritional information indicates that the total calories are 625 kcal, with a protein content of 11.5g, carbs at 47.1g, and fats of 9.0g. The salad is made using tomato, broccoli, egg, onion, and bell pepper.
+
+Avocado Toast from the same recipe has nutritional values of 184 kcal, containing 8.8g of protein, 28.1g of carbs, and 2.3g of fats. 
+
+For Chicken Stir-Fry, the recipe provides a total of 593 kcal with a high protein content of 10.3g, moderate carbohydrates of 17.7g, and a low fat amount of 19.0g.
+
+Vegetable Stir-Fry contains 582 kcal, with high protein levels of 18.0g, medium carb intake of 62.7g, and high fat content of 9.5g.
+
+Caesar Salad has nutritional values of 353 kcal, containing 9.0g of protein, 33.1g of carbs, and 4.8g of fats.
+
+The recipe for Turkey Sandwich includes a total of 356 kcal with high protein levels of 10.3g, moderate carb intake of 75.3g, and low fat content of 33.2g.
+
+Oatmeal with Berries has nutritional values of 603 kcal, containing 30.5g of protein, 62.3g of carbs, and 11.0g of fats.
+
+Lentil Soup's nutritional information suggests that it contains a total of 519 kcal, high protein levels of 10.3g, moderate carb intake of 35.1g, and high fat content of 13.4g.
+
+The recipe for Turkey Sandwich includes nutritional values of 175 kcal with low protein contents of 13.2g, high carbs of 59.2g, and a medium fat amount of 18.6g.
+
+Finally, the recipe for Lentil Soup contains a total of 519 kcal, moderate protein levels of 10.3g, moderate carb intake of 35.1g, and low fat content of 13.4g.",102,What are the nutritional values mentioned?,NON_RELEVANT,Failed to parse evaluator response
+"The nutritional information of this dish is:
+- recipe_name: Spaghetti Carbonara
+  meal_type: Lunch
+  dietary_category: Keto
+  ingredients: kale, garlic, cucumber, quinoa, onion
+  equipment_needed: Blender, Stove
+  nutritional_information: 403 kcal, Protein: 14.4g, Carbs: 31.2g, Fats: 31.1g
+  instructions: 1. Preheat the Stove. 2. Add cucumber and cook until done.
+- recipe_name: Greek Salad
+  meal_type: Lunch
+  dietary_category: Vegetarian
+  ingredients: tomato, broccoli, egg, onion, bell pepper
+  equipment_needed: Air Fryer, Grill
+  nutritional_information: 625 kcal, Protein: 11.5g, Carbs: 47.1g, Fats: 9.0g
+  instructions: 1. Preheat the Grill. 2. Add egg and cook until done.
+- recipe_name: Avocado Toast
+  meal_type: Dinner
+  dietary_category: Keto
+  ingredients: cheese, milk, quinoa, beans, chicken
+  equipment_needed: Blender, Stove
+  nutritional_information: 184 kcal, Protein: 8.8g, Carbs: 28.1g, Fats: 2.3g
+  instructions: 1. Preheat the Stove.
+- recipe_name: Chicken Stir-Fry
+  meal_type: Snack
+  dietary_category: Paleo
+  ingredients: mushroom, cucumber, bell pepper, egg, beans
+  equipment_needed: Blender, Stove
+  nutritional_information: 593 kcal, Protein: 10.3g, Carbs: 17.7g, Fats: 19.0g
+  instructions: 1. Preheat the Stove.
+- recipe_name: Vegetable Stir-Fry
+  meal_type: Dinner
+  dietary_category: Vegan
+  ingredients: egg, spinach, cheese, beans, avocado
+  equipment_needed: Air Fryer, Grill
+  nutritional_information: 582 kcal, Protein: 18.0g, Carbs: 62.7g, Fats: 9.5g
+  instructions: 1. Preheat the Grill.
+- recipe_name: Caesar Salad
+  meal_type: Breakfast
+  dietary_category: Vegetarian
+  ingredients: spinach, broccoli, cheese, beans, cucumber
+  equipment_needed: Stove, Blender
+  nutritional_information: 353 kcal, Protein: 9.0g, Carbs: 33.1g, Fats: 4.8g
+  instructions: 1. Preheat the Stove.
+- recipe_name: Turkey Sandwich
+  meal_type: Snack
+  dietary_category: Vegan
+  ingredients: chicken, carrot, onion, spinach, mushroom
+  equipment_needed: Oven, Stove
+  nutritional_information: 356 kcal, Protein: 10.3g, Carbs: 75.3g, Fats: 33.2g
+  instructions: 1. Preheat the Oven.
+- recipe_name: Oatmeal with Berries
+  meal_type: Dinner
+  dietary_category: Vegan
+  ingredients: milk, quinoa, onion, tofu, spinach
+  equipment_needed: Blender, Oven
+  nutritional_information: 603 kcal, Protein: 30.5g, Carbs: 62.3g, Fats: 11.0g
+  instructions: 1. Preheat the Blender.
+- recipe_name: Lentil Soup
+  meal_type: Dinner
+  dietary_category: Paleo
+  ingredients: chicken, tomato, beans, tofu, milk
+  equipment_needed: Instant Pot, Microwave
+  nutritional_information: 519 kcal, Protein: 10.3g, Carbs: 35.1g, Fats: 13.4g
+  instructions: 1. Preheat the Microwave.
+- recipe_name: Turkey Sandwich
+  meal_type: Snack
+  dietary_category: Vegan
+  ingredients: spinach, quinoa, chicken, kale, egg
+  equipment_needed: Microwave, Grill
+  nutritional_information: 175 kcal, Protein: 13.2g, Carbs: 59.2g, Fats: 18.6g
+  instructions: 1. Preheat the Microwave.
+- recipe_name: Lentil Soup
+  meal_type: Dinner
+  dietary_category: Vegan
+  ingredients: chicken, tomato, beans, tofu, milk
+  equipment_needed: Instant Pot, Microwave
+  nutritional_information: 519 kcal, Protein: 10.3g, Carbs: 35.1g, Fats: 13.4g
+  instructions: 1. Preheat the Microwave.
+- recipe_name: Turkey Sandwich
+  meal_type: Snack
+  dietary_category: Vegan
+  ingredients: spinach, quinoa, chicken, kale, egg
+  equipment_needed: Microwave, Grill
+  nutritional_information: 175 kcal, Protein: 13.2g, Carbs: 59.2g, Fats: 18.6g
+  instructions: 1. Preheat the Microwave.
+
+Please note that these values are approximate and may vary depending on the specific ingredients used in this dish.",105,What is the nutritional information of this dish?,PARTLY_RELEVANT,"The generated answer provides detailed nutritional information for each dish, but the question was about finding the nutritional information of 'this dish', which is not specified in the provided data. However, since the data includes various dishes with their respective nutritional information, it can be considered partly relevant as users might use this data to find the nutritional info of any given dish by looking up its name or recipe."
+The protein content of the salmon in this recipe is not provided.,60,What's the protein content of the salmon?,NON_RELEVANT,Failed to parse evaluator response
+"It is not specified how long it takes to prepare this recipe. The information provided is for a variety of recipes across different meal types, dietary categories, allergens, and preparation times (in minutes). It does not include any specific instructions on how long it takes to prepare each dish.",112,{'question': 'How long does it take to prepare this recipe?'},NON_RELEVANT,Failed to parse evaluator response
+"For the Vegetable Stir-Fry recipe, you will need a Grill and possibly an Instant Pot (Stove) depending on whether you choose to grill or blend the ingredients.",196,What equipment do I need to cook this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"This lentil soup has no dietary restrictions listed in the provided context. It is suitable for anyone following specific diets or preferences, such as gluten-free, vegan, paleo, vegetarian, and keto diets.",176,Does this lentil soup have any dietary restrictions?,NON_RELEVANT,Failed to parse evaluator response
+"Yes, Greek Salad is suitable for a vegetarian diet as all ingredients listed are considered plant-based in nature. It includes vegetables such as tomato, broccoli, egg, onion, and bell pepper which are commonly consumed by vegetarians. The instructions provided include cooking the main ingredients using an air fryer or grill, allowing for flexibility while adhering to dietary guidelines for vegetarians.",12,Is it suitable for a vegetarian diet?,NON_RELEVANT,Failed to parse evaluator response
+The nutritional value of this meal depends on which recipe you are referring to. Please provide the name of the recipe for a more accurate answer.,196,What is the nutritional value of this meal?,NON_RELEVANT,Failed to parse evaluator response
+"I'm sorry, but there is no nutritional information provided for any specific recipe in this context. The recipes listed include items from various dietary categories, so they might not be suitable for all individuals based on their diet or allergies.",163,What is the nutritional information for this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"To cook the Vegetable Stir-Fry recipe, you will need:
+
+- Grill (for grilling)
+- Air Fryer (for air frying)
+
+The recipe calls for all ingredients to be mixed in a bowl and then using either the grill or an air fryer to cook. No specific equipment is mentioned for this particular recipe.",141,What equipment is needed to cook this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"You can substitute avocado for other ingredients based on the nutritional information provided for each recipe. For example:
+
+- Avocado Toast: You could swap out the avocado with a different ingredient like tomato or carrot to maintain a balanced nutrition profile.
+  
+- Spaghetti Carbonara: This is not suitable for most people due to its high fat and protein content, so you might want to avoid substituting avocado.
+
+Each recipe has specific ingredients that balance well in terms of macronutrients (proteins, carbohydrates, fats) and calories. You should always check the nutritional information before making any substitutions or adjustments to ensure they meet your health goals and needs.
+
+If you have specific dietary requirements, such as being vegetarian or vegan, please let me know; I can provide more tailored recommendations based on those needs.",165,Can I substitute avocado with another ingredient in this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"A recipe for making smoothies is provided in this context. The main ingredients used in a smoothie are fruits, vegetables, and sometimes other items such as yogurt, protein powder, or honey. Smoothies are a popular drink for many reasons, including their ability to keep the body hydrated and energized while providing nutrients not typically found in most drinks.
+
+There is no specific nutritional information provided for this recipe, but I will provide some general facts about smoothies to give you an idea of what kind of nutritional value they offer:
+
+Smoothies are generally high in water content as they usually have more liquid than solid food. This means that they tend to be lower in calories and higher in volume compared to other beverages or foods.
+
+Fruits and vegetables are a rich source of vitamins, minerals, and fiber, which are important for maintaining good health and preventing diseases.
+
+Protein powder can provide protein for muscle building and repair, especially if you are focusing on weightlifting or bodybuilding. However, it's important to note that not all protein powders have the same nutritional profile, so consulting with a healthcare professional is recommended before adding any supplement to your diet.
+
+Yogurt can be an excellent source of calcium, which is essential for bone health and muscle function. Adding yogurt to smoothies may provide more calcium than if you were consuming it on its own as part of a meal.
+
+Honey or other natural sweeteners in the smoothie mixture may add some sweetness and flavor without excessive calories.
+
+Overall, smoothies are a versatile drink that can be customized according to your preferences and dietary needs. However, like any type of liquid or beverage, they should be consumed in moderation to ensure you get enough water and stay hydrated throughout the day.",174,What nutritional information does this recipe provide?,NON_RELEVANT,Failed to parse evaluator response
+"No, you cannot use a blender instead of a grill for falafel wraps. The recipe specifies using a Grill to cook the ingredients before blending them in the blender. The instructions specifically mention preparing the Falafel Wrap on the Grill or using the Blender to cook it thoroughly. Using a blender would not provide the same cooking process as grilling, and the nutritional information provided suggests that falafel wraps are better suited for the Grill because of their high protein content.",135,Can I use a blender instead of grill for falafel wrap?,NON_RELEVANT,Failed to parse evaluator response
+"The dietary category of this recipe is ""Vegan"" as it contains ingredients such as spinach, quinoa, kale, and egg. The other recipes in the context have different dietary categories including Keto, Vegetarian, Paleo, Gluten-Free, Vegan, Nut-free, and Dairy-free.",84,What is the dietary category of this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"To ensure your falafel wraps are gluten-free, follow these steps:
+
+1. Replace the lentils with chickpeas or a gluten-free substitute such as quinoa or beans for the falafel filling.
+
+2. When cooking the falafel in an air fryer or using any method provided (grill, oven), ensure the equipment is clean and free from gluten residue. 
+
+3. Avoid using pre-cooked lentils, as they can be a common source of gluten.
+
+4. For dipping sauces, use gluten-free options available to you.
+
+5. If possible, consider serving the wraps on a gluten-free wrap or in a separate container to avoid cross-contamination with other foods containing gluten.
+
+By following these steps and taking necessary precautions, your falafel wraps should be gluten-free and safe for consumption.",100,How do I ensure my falafel wraps are gluten-free?,NON_RELEVANT,Failed to parse evaluator response
+"Yes, you can use dairy in this recipe by including milk or yogurt as a creamy ingredient in the stir-fry. You may also add cheese or vegan cheese alternatives for additional protein and flavor. This dish provides options that cater to various dietary preferences and needs. Adjustments could include using cream instead of milk or other dairy substitutes if necessary, depending on the overall taste preference and personal requirements for dietary conditions.",18,Can I use dairy in this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"The nutritional information for one serving of Spaghetti Carbonara is 403 kcal, containing 14.4g protein, 31.2g carbs, and 31.1g fats. For Greek Salad, the nutritional information indicates 625 kcal, with 11.5g protein, 47.1g carbs, and 9.0g fats. For Chicken Stir-Fry, it contains 593 kcal, with 10.3g protein, 17.7g carbs, and 19.0g fats per serving. Avocado Toast provides 84 kcal of nutritional information, including 8.8g protein, 28.1g carbs, and 2.3g fats for one serving. Vegetables in a stir-fry typically do not provide exact calorie counts as part of the recipe's nutrition information; however, the given options have been provided without detailed nutritional values to accommodate a variety of recipes. 
+
+Please note that these values are general estimates based on typical portion sizes and may vary depending on specific recipe measurements or individual preferences. For more precise nutritional details, check the recipe for exact serving sizes included in the nutritional information or consult the manufacturer's label for accurate amounts per serving.",81,How many calories does it contain per serving?,NON_RELEVANT,Failed to parse evaluator response
+"I'm sorry, but there is no nutritional information provided for any of these dishes in your context. Please provide the correct dish name or modify the recipe to include all necessary information.",156,What's the nutritional information of this dish?,NON_RELEVANT,Failed to parse evaluator response
+The recipe name is Spaghetti Carbonara.,56,When did you make it?,NON_RELEVANT,Failed to parse evaluator response
+The equipment needed for this dish is not mentioned in the provided information.,5,What equipment is needed for this dish?,NON_RELEVANT,Failed to parse evaluator response
+"Yes, you can use an Air Fryer for preparing most of these recipes, including Falafel Wrap, Vegetable Stir-Fry, Mushroom Risotto, Avocado Toast, Lentil Soup, Greek Salad, Chicken Stir-Fry, Tofu Curry. Simply follow the instructions provided in each recipe to ensure they are cooked properly and safely.",106,Can I use an Air Fryer for this preparation?,NON_RELEVANT,Failed to parse evaluator response
+"The dietary categories in this Shrimp Fried Rice recipe are:
+- Protein: Fish (Shrimp)
+- Carbohydrates: Rice, Spinach
+- Fat: Tofu, Oil (Avocado) 
+- Fiber: Carrot, Onion
+- Saturated Fat: Avocado
+
+Ingredients:
+
+- Tomatoes
+- Onions
+- Garlic
+- Kale
+- Bell peppers
+- Salmon
+- Rice
+- Milk
+- Quinoa
+- Cucumber
+- Avocado
+- Spinach
+- Soy Sauce (optional)
+- Salt to taste
+
+Instructions:
+1. Saute all the ingredients using a microwave.
+2. Add seasonings and cook thoroughly.
+3. Serve warm. Enjoy!",147,What are the dietary categories and ingredients used in this Shrimp Fried Rice recipe?,NON_RELEVANT,Failed to parse evaluator response
+"The information provided seems to suggest that the equipment needed for the recipe is primarily in the context of cooking methods or preparation techniques rather than specific appliances. It includes tools such as stovetop (stove and grill), air fryers (Air Fryer, Blender), ovens (Oven, Air Fryer), and blenders. However, it does not specifically mention an ""equipment needed"" for the recipe itself - rather, it describes recipes and their respective equipment needs based on the ingredients and instructions provided.
+
+So, while it's clear that the list includes some basic kitchen appliances such as blenders (for blending vegetables or mixing together ingredients), stovetop appliances (stove and grill) to cook different types of foods like stir-fries or salads, and an air fryer for frying or cooking food at a lower temperature to reduce fat content.
+
+The equipment needed typically includes items that are used in the preparation of the dish rather than as part of the ingredients themselves. However, since it's about the list of equipment needed without explicitly stating which specific types of food appliances are included, there isn't an exact answer in terms of what one would use for a recipe not explicitly mentioned.
+
+Based on this context, if you were to ask about a specific type of equipment or appliance that might be necessary for cooking some of these dishes (like the air fryer, blender, stove, etc.), it's best to consult each individual recipe for its specific needs. The context provided gives an overview rather than a detailed breakdown of what every single recipe would require.",28,Can the air fryer be used as an equipment needed?,NON_RELEVANT,Failed to parse evaluator response
+"Yes, the allergen information provided for each recipe is suitable for a vegan diet. Each dish contains ingredients that are typically found in a vegan diet and does not contain any animal products or dairy, as specified by the allergy information.",45,Is the allergen information suitable for a vegan diet?,NON_RELEVANT,Failed to parse evaluator response
+"The equipment needed for cooking in the given context includes Grills, Instant Pots, Air Fryers (Stove), and Stoves for various dishes such as Keto Chicken Salad, Falafel Wrap, Pancakes, Vegetable Stir-Fry, Turkey Sandwich, Mushroom Risotto, Greek Salad.",91,What equipment is needed for cooking?,NON_RELEVANT,Failed to parse evaluator response
+The recipe for Vegan Quinoa Bowl requires a prep time of 59 minutes.,16,{'prep_time_minutes': '59'},PARTLY_RELEVANT,"The generated answer is relevant in the sense that it provides information about prep time, which is one of the parameters mentioned in the question. However, the context and specific detail about a 'recipe' are not directly related to the question, making it partially relevant."
+"This recipe does not provide specific nutritional information for each ingredient used in the dish. The nutritional information provided is for the entire dish, including all ingredients listed, and includes a total of 403 calories (calories per serving). This information also includes the following details:
+
+- Protein: 14.4g
+- Carbohydrates: 31.2g
+- Fats: 31.1g
+
+Please note that the nutritional information is based on the provided ingredients and does not account for any specific cooking or preparation methods mentioned in the recipe description. If you have specific dietary needs or restrictions, it's recommended to consult a nutritionist or check the label of all ingredients if they are packaged separately.",172,What's the nutritional information of this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"Based on the nutritional information provided in the recipe, it appears that you are looking for a cooking equipment needed for this recipe called ""Lentil Soup."" Since the lentils require soaking and cooking time, the recommended cooking equipment would be an Instant Pot or Microwave, as Lentils can be prepared quickly in either of these appliances.",194,What is the recommended cooking equipment for this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"Nutrition is important because it helps your body grow and stay healthy. It also helps you feel good and be more focused. There are different types of nutrients, like vitamins and minerals. You can get these from food or supplements.
+There is no nutritional information for the following items:
+- A large pizza with lots of toppings
+- A bottle of water
+- A box of cookies
+- An apple",107,Is there a nutritional information?,NON_RELEVANT,Failed to parse evaluator response
+"Tempeh can be used as a substitute for tofu in this recipe. The nutritional information shows that it has more protein than tofu, and the preparation time is also shorter. If you decide to use tempeh instead of tofu, make sure to adjust the cooking method accordingly (e.g., air fryer or grill) and follow the instructions carefully to achieve the best results for your recipe.",127,Can I substitute tofu with tempeh or seitan for this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"I'm sorry, but I cannot provide nutritional information for this recipe without more context or ingredients. Please let me know what specific dish you have in mind so I can assist you further.",138,What is the nutritional information of this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"The equipment needed for this recipe is:
+
+- Blender (for the Oatmeal with Berries)
+- Instant Pot (for the Spaghetti Carbonara, Vegetable Stir-Fry, and Shrimp Fried Rice)
+
+To prepare and cook these recipes, you would need to follow the instructions provided. For example, the Oatmeal with Berries requires chopping vegetables and boiling it in an instant pot; the Spaghetti Carbonara requires cooking it using a stovetop method; and the Shrimp Fried Rice requires cooking it on a stove.
+
+The prep time for these recipes is as follows:
+
+- Oatmeal with Berries: 46 minutes
+- Smoothie Bowl: 25 minutes
+- Beef Tacos: 11 minutes
+- Avocado Toast: 35 minutes
+- Shrimp Fried Rice: 33 minutes
+- Vegetable Stir-Fry: 51 minutes",164,What equipment is needed for this recipe? How long does it take to prepare and cook?,PARTLY_RELEVANT,"The generated answer provides some relevant information about the equipment needed and the preparation time for certain recipes, but it does not directly address the question of what equipment is needed for 'this recipe'. Additionally, there are multiple unrelated recipes mentioned in the response. The answer could be more relevant if it focused on a single recipe or provided a clear connection between the equipment and cooking times."
+"The Avocado Toast recipe contains 571 calories, with a protein of 26.5g, carbs of 33.3g, and fats of 30.9g. This information is based on the nutritional information provided in the context.",74,How many calories are in this Avocado Toast recipe?,NON_RELEVANT,Failed to parse evaluator response
+"Based on the nutritional information provided, there are no specific calories mentioned for any of these recipes. The total calories range from approximately 190 to 840 kcal per recipe. For example:
+
+- Chili Con Carne (543 kcal)
+- Vegan Quinoa Bowl (221 kcal)
+- Falafel Wrap (598 kcal)
+
+Please note that the ""calories"" values provided are estimates and may vary based on serving size or ingredient amounts used in recipes. For precise calorie counts, it is recommended to refer to nutrition labels and recipe instructions for each dish.",186,How many calories are in this pancake recipe?,NON_RELEVANT,Failed to parse evaluator response
+The recipe_name for this question is Spaghetti Carbonara. The preparation time for this recipe is not provided in the context.,122,How long does it take to prepare this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"The dietary category of this recipe is ""Vegan"".",90,what is the dietary category of this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"BiteBlender is a nutrition assistant. They are responsible for providing nutritional information about different foods, including ingredients. For example, they can help identify which ingredients contribute to a specific nutritional benefit, such as protein or vitamins. They may also be asked to provide recommendations on portion sizes and how to best include various nutrients in one's diet.",148,ingredient,NON_RELEVANT,Failed to parse evaluator response
+Keto,56,In what dietary category was it made?,NON_RELEVANT,Failed to parse evaluator response
+Vegetarian,107,What is the dietary category of this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"There are no dietary restrictions or intolerances mentioned for this recipe context provided, as all meals have been identified as gluten-free, dairy-free, and/or shellfish-free options. If you have specific conditions or allergies that need to be considered, please inform me so I can provide a more accurate response based on your needs.",160,are there any dietary restrictions or intolerances?,NON_RELEVANT,Failed to parse evaluator response
+"The equipment needed for this recipe is not extensive, as it only requires a Blender and potentially an Instant Pot or Oven depending on the dish. The other recipes listed in the context do require more specific equipment such as Air Fryers, Grills, and Oven.",168,Is the equipment needed for this recipe extensive?,NON_RELEVANT,Failed to parse evaluator response
+"The recipes provided do not mention any specific equipment needed for grilling or an Instant Pot. Therefore, the question ""Do I need to use an Instant Pot or can I do it on a grill?"" cannot be definitively answered based on the information given from the context.
+
+In conclusion, you should choose the cooking method that best suits your preferences and needs between using an Instant Pot for cooking some recipes or grilling others.",118,Do I need to use an Instant Pot or can I do it on a grill?,NON_RELEVANT,Failed to parse evaluator response
+"Yes, you can substitute soy milk with lactose-free milk for tofu in various recipes like the Turkey Sandwich recipe where both are part of the ingredients. This substitution is safe as they do not contain cross-reacting proteins or allergens that might cause allergic reactions. Always check ingredient lists and product information to ensure their compatibility before making substitutions.",45,Can I substitute soy milk with lactose-free milk for tofu?,NON_RELEVANT,Failed to parse evaluator response
+"There are no ingredients in the provided context that contain soy, as they all include at least one non-soy ingredient such as tofu or vegetables. These recipes are designed for specific dietary needs including keto, vegetarian, gluten-free, and more. So, these are safe to consume.",164,"Are there any ingredients that contain soy, and are they safe to consume?",NON_RELEVANT,Failed to parse evaluator response
+"Dairy and Soy are safe in the recipes provided. All of them comply with the dietary category, vegan or gluten-free, as indicated by the ingredients used and mentioned allergens. In this context, no additional information is needed to answer the question about the safety of dairy and soy in these recipes.",21,Dairy and Soy Safe?,NON_RELEVANT,Failed to parse evaluator response
+"Yes, there are shellfish allergens in the recipe named ""Smoothie Bowl"". It contains items like bell pepper and avocado which can be potentially allergic to some individuals. However, the specific shellfish listed is not mentioned in this context.",156,Is there any shellfish allergens in this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"The dish involves blending fruits, vegetables, and yogurt together to make a smoothie or juice. While some recipes may include specific tools like a blender or juicer, it is not essential for every recipe as a regular kitchen appliance will suffice for most blends. Tools that can be used are:
+
+- Blender (such as Vitamix or Ninja)
+- Juicer (for fresh juice options)
+
+The process generally involves adding all the ingredients to the appliance and blending until smooth.
+
+If you have any further queries or need assistance, I'm here!",152,Does this dish require equipment? What's included?,NON_RELEVANT,Failed to parse evaluator response
+The preparation time for Spaghetti Carbonara is not listed in the context provided.,139,How long does it take to prepare?,NON_RELEVANT,Failed to parse evaluator response
+"Unfortunately, there is no nutritional information provided for the specific recipe name ""Lentil Soup"". The other recipes mentioned all have detailed nutritional information available in the context provided. If you need more information on a particular recipe or if you're looking for vegetarian or vegan options, please let me know!",113,What is the nutritional information of this recipe?,NON_RELEVANT,Failed to parse evaluator response
+The main ingredient in this recipe is quinoa.,62,What is the main ingredient in this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"The dietary category for this recipe is ""Vegan"". The instructions are provided in the context of a vegetarian dish called Greek Salad with egg as an allergen. There is no information on any specific dietary category within the given recipe list or from the overall context.",89,What is the dietary category for this recipe?,NON_RELEVANT,Failed to parse evaluator response
+No allergens mentioned in the instructions for any of the recipes.,170,Are there any allergens mentioned in the instructions?,NON_RELEVANT,Failed to parse evaluator response
+"The equipment needed for all the recipes listed are:
+
+- Stove or Grills for cooking:
+  - Falafel Wrap, Vegetable Stir-Fry, Grilled Salmon
+  - Pancakes, Vegetables Stir-Fry, Salad
+- Air Fryer for baking or frying:
+  - Chicken Stir-Fry, Falafel Wrap, Greek Salad, Lemon Tuna Roll, Oatmeal with Berries, Vegan Lentil Bowl
+  - Steak Wrap
+
+Additionally, some recipes also require:
+
+- Blender (for blending ingredients in Stove dishes) 
+- Mixing bowl for preparing vegetables (Vegetable Stir-Fry)
+- Oven or Griddle pan for baking or frying (Grilled Salmon, Pancakes)
+
+However, if a recipe specifically states it needs to be made in an Air Fryer or stove only, those are the necessary equipment.",132,"What equipment is needed? (Stove, Air Fryer)",NON_RELEVANT,Failed to parse evaluator response
+"I'm sorry, but I need more information about a specific recipe to provide nutritional information. Could you please specify the name of the recipe or give me additional details?",65,What is the nutritional information of this recipe?,NON_RELEVANT,Failed to parse evaluator response
+The prep time for this recipe is not provided in the context given. Please provide more information or check the instructions from the recipe that you are interested in preparing.,50,How long does it take to prepare this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"The protein content of this meal is not provided in the given context. The nutritional information includes calories, but there's no mention of the specific proteins mentioned within the ingredients for this particular recipe (Avocado Toast, Caesar Salad, Beef Tacos, Vegetable Stir-Fry). To accurately determine the protein content, please provide more specific details about the ingredients or a different meal from the provided list.",106,What's the protein content of this meal?,NON_RELEVANT,Failed to parse evaluator response
+"Yes, there is dairy in this recipe. In the provided information, the dish ""Vegan Quinoa Bowl"" includes cheese as one of its ingredients.",135,Is there any dairy in this recipe?,NON_RELEVANT,Failed to parse evaluator response
+It takes 5 minutes to prepare a Caesar Salad.,107,How long does it take to prepare?,NON_RELEVANT,Failed to parse evaluator response
+"The nutritional information for the Shrimp Fried Rice recipe from the context provided is:
+
+- Calories: 654
+- Protein: 8.1g
+- Carbs: 30.7g
+- Fats: 28.5g
+
+This recipe has a total of 4 meals and snacks, all of which have been given an estimated preparation time of approximately 53 minutes.
+
+Please note that the nutritional information may vary slightly depending on the specific brands used for ingredients, as well as variations in cooking techniques. It is always recommended to consult with a healthcare professional before starting any new diet or exercise program, especially if you are pregnant or have certain health conditions. Always check ingredient amounts and preparation times for accurate nutritional data.",92,What is the nutritional information for this Shrimp Fried Rice recipe?,NON_RELEVANT,Failed to parse evaluator response
+"You can substitute any ingredient in this recipe based on the dietary category or allergen restrictions you have. For example, if you're looking for an alternative to chickpeas, you could use cooked lentils instead. The recipe instructions and nutritional information provided should give you a general idea of what ingredients might be suitable for your needs.",66,{'question': 'Can I substitute any ingredients for this recipe?'},NON_RELEVANT,Failed to parse evaluator response
+It takes 40 minutes to prepare Spaghetti Carbonara.,30,How long does it take to prepare?,NON_RELEVANT,Failed to parse evaluator response
+"The nutritional benefits of this meal are:
+- Spaghetti Carbonara: High in Protein (14.4g), Carbs (31.2g) and Fats (31.1g)
+- Greek Salad: High in Protein (11.5g) and Carbs (47.1g)
+- Chicken Stir-Fry: High in Protein (10.3g) and Carbs (17.7g)
+- Avocado Toast: Low in Carbs (28.1g), High in Protein (8.8g) and Fats (2.3g)
+- Vegetable Stir-Fry: High in Protein (18.0g) and Carbs (62.7g)
+- Caesar Salad: High in Protein (9.0g) and Carbs (33.1g)
+- Oatmeal with Berries: High in Protein (30.5g), Low in Carbs (62.3g) and Fats (11.0g)
+- Turkey Sandwich: High in Protein (10.3g) and Carbs (75.3g), Low in Fats (33.2g)",12,What are the nutritional benefits of this meal?,NON_RELEVANT,Failed to parse evaluator response
+"The equipment needed to cook the vegetables in this recipe is Grill, Stove, Instant Pot, Oven.",126,What equipment is needed to cook the vegetables in this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"I'm sorry, but I can't answer the question based on the provided information as there is no mention of nutritional information for any specific Smoothie Bowl recipe in the given context. The context only provides information about each Smoothie Bowl recipe such as ingredients, equipment needed, preparation time, dietary category, and allergens. To get total nutritional information for a particular Smoothie Bowl recipe, you would need to refer to that recipe's ingredient list and follow its instructions to determine the nutritional values.",126,What is the total nutritional information for this Smoothie Bowl recipe?,NON_RELEVANT,"The generated answer does not provide any relevant information to the question, as it simply states that the context lacks nutritional information and refers the user to look elsewhere. The answer does not attempt to provide a solution or estimate the total nutritional value of the recipe."
+"Based on the nutritional information provided, it is suitable for anyone with a dietary restriction as long as the specific restrictions are known or acknowledged during the preparation of the sandwich. If there are any ingredients that contain nuts, shellfish, gluten, dairy products, eggs, soy, or any other allergens mentioned in the dietary category section (e.g., Gluten-Free, Vegan, Vegetarian), then additional instructions may be needed to accommodate these restrictions.",15,What is the nutritional information of this sandwich? Is it suitable for anyone with a dietary restriction?,NON_RELEVANT,Failed to parse evaluator response
+"Bite, in addition to being a name for a type of ingredient, also means one bite, with 325 calories. This is a joke about calorie counting and how much you'd eat if you were to take just one bite (which would be very unhealthy). The context here refers to the recipe being ""made"" by BiteBlender in reference to the brand of blender that was mentioned. It's used as an example to show that calories are often misinterpreted or overlooked when it comes to food portions, and how they can impact overall calorie intake if not accounted for properly.",96,How many calories does this recipe have?,PARTLY_RELEVANT,"The generated answer provides some information about calories (325 calories), but it is not directly answering the question of how many calories 'this recipe' has. The answer also includes a lengthy explanation and a joke about calorie counting, which is not relevant to the original question."
+"I'm sorry, but there is no nutritional information provided for the ""Spaghetti Carbonara"" recipe in your context. Please provide more details or correct any spelling errors if necessary.",1,What is the nutritional information of this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"This recipe has a total of 565 calories, including:
+
+- Protein: 24.4g
+- Carbs: 15.1g
+- Fats: 9.5g
+
+The breakdown of macronutrients is as follows:
+Protein: 24.4g
+Carbohydrates: 15.1g
+Fats: 9.5g",125,"How many calories are in this recipe, and what's the breakdown of proteins, carbs, and fats?",NON_RELEVANT,Failed to parse evaluator response
+The dietary category of this recipe is Vegan.,4,What is the dietary category of this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"To store Mushroom Risotto for future meals, follow these steps:
+
+1. Transfer the finished dish to an airtight container or a storage bag.
+2. Chill in the fridge for at least an hour or until ready to serve again.
+3. Use this portion as desired throughout the week.
+
+Always make sure to refrigerate leftovers promptly and consume them within three days of preparation, as stored mushrooms can experience changes in flavor and texture when they are not consumed immediately after cooking. Enjoy your delicious Mushroom Risotto!",171,How do I store this Mushroom Risotto for future meals?,NON_RELEVANT,Failed to parse evaluator response
+"Falafel Wrap is a nutritious lunch option with a mix of vegetables and protein. It's suitable for individuals following a variety of dietary requirements including Gluten-Free, Vegan, Vegetarian, and Keto diets. The recipe includes options like chicken, mushrooms, bell peppers, beans, onion, or a blend of quinoa, kale, rice, or beans depending on your preference and dietary needs. The preparation time ranges from 10 minutes to more than an hour, depending on the ingredients used, making it suitable for different times of the day. Each recipe is designed to provide balanced nutrition with the inclusion of dairy-free, eggless, nut free, gluten-free recipes. Some recipes may require specific equipment like a blender or grill, while others involve cooking techniques like blending or grilling. Overall, Falafel Wrap offers a variety of options that cater to different dietary restrictions and preferences.",21,Falafel Wrap,RELEVANT,"The generated answer is relevant to the question about Falafel Wrap as it provides detailed information about its nutritional value, dietary suitability, and various recipe options. Although some minor details (like preparation time) are not directly related to the question, they don't detract from the overall relevance of the content, which is primarily focused on providing useful information about Falafel Wraps."
+"The nutritional information for this recipe is as follows:
+
+- Spaghetti Carbonara:
+  - Calories: 403 kcal
+  - Protein: 14.4g
+  - Carbs: 31.2g
+  - Fats: 31.1g
+
+- Greek Salad:
+  - Calories: 625 kcal
+  - Protein: 11.5g
+  - Carbs: 47.1g
+  - Fats: 9.0g
+
+- Chicken Stir-Fry:
+  - Calories: 593 kcal
+  - Protein: 10.3g
+  - Carbs: 17.7g
+  - Fats: 19.0g
+
+- Avocado Toast:
+  - Calories: 184 kcal
+  - Protein: 8.8g
+  - Carbs: 28.1g
+  - Fats: 2.3g
+
+- Vegetable Stir-Fry:
+  - Calories: 582 kcal
+  - Protein: 18.0g
+  - Carbs: 62.7g
+  - Fats: 9.5g
+
+- Caesar Salad:
+  - Calories: 353 kcal
+  - Protein: 9.0g
+  - Carbs: 33.1g
+  - Fats: 4.8g
+
+- Vegetable Stir-Fry:
+  - Calories: 603 kcal
+  - Protein: 30.5g
+  - Carbs: 62.3g
+  - Fats: 11.0g
+
+- Turkey Sandwich:
+  - Calories: 356 kcal
+  - Protein: 10.3g
+  - Carbs: 75.3g
+  - Fats: 33.2g
+
+- Lentil Soup:
+  - Calories: 519 kcal
+  - Protein: 10.3g
+  - Carbs: 35.1g
+  - Fats: 13.4g
+
+- Turkey Sandwich:
+  - Calories: 175 kcal
+  - Protein: 13.2g
+  - Carbs: 59.2g
+  - Fats: 18.6g",101,What is the nutritional information for this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"There are no dietary restrictions specific to this recipe. However, the guidelines listed above indicate that the recipes have their own dietary categories and may contain allergens based on the ingredient list provided in each recipe. It is recommended to check the labels or instructions for any potential allergies or restricted ingredients.",161,Are there any dietary restrictions in this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"The nutritional value of this dish is provided in the context as follows:
+
+- Spaghetti Carbonara (Keto): 
+  - Calories: 403 kcal
+  - Protein: 14.4g
+  - Carbs: 31.2g
+  - Fats: 31.1g
+
+- Greek Salad:
+  - Calories: 625 kcal
+  - Protein: 11.5g
+  - Carbs: 47.1g
+  - Fats: 9.0g
+
+- Avocado Toast (Keto):
+  - Calories: 184 kcal
+  - Protein: 8.8g
+  - Carbs: 28.1g
+  - Fats: 2.3g
+
+- Chicken Stir-Fry:
+  - Calories: 593 kcal
+  - Protein: 10.3g
+  - Carbs: 17.7g
+  - Fats: 19.0g
+
+- Vegetable Stir-Fry:
+  - Calories: 582 kcal
+  - Protein: 18.0g
+  - Carbs: 62.7g
+  - Fats: 9.5g
+
+- Caesar Salad (Vegan):
+  - Calories: 353 kcal
+  - Protein: 9.0g
+  - Carbs: 33.1g
+  - Fats: 4.8g
+
+- Turkey Sandwich:
+  - Calories: 356 kcal
+  - Protein: 10.3g
+  - Carbs: 75.3g
+  - Fats: 33.2g
+
+- Oatmeal with Berries (Vegan):
+  - Calories: 603 kcal
+  - Protein: 30.5g
+  - Carbs: 62.3g
+  - Fats: 11.0g
+
+- Lentil Soup:
+  - Calories: 519 kcal
+  - Protein: 10.3g
+  - Carbs: 35.1g
+  - Fats: 13.4g
+
+- Turkey Sandwich (Gluten-Free):
+  - Calories: 356 kcal
+  - Protein: 10.3g
+  - Carbs: 75.3g
+  - Fats: 33.2g
+
+- Oatmeal with Berries:
+  - Calories: 603 kcal
+  - Protein: 30.5g
+  - Carbs: 62.3g
+  - Fats: 11.0g",122,What is the nutritional value of this dish?,NON_RELEVANT,Failed to parse evaluator response
+"The equipment needed for making a Caesar Salad are:
+
+- Stove
+- Blender
+
+You don't need any specific equipment for making the recipe provided. Just use your kitchen appliances and follow the instructions given. If you have any questions or if there's anything else you'd like help with, just let me know!",46,What equipment is needed for making the Caesar Salad?,NON_RELEVANT,Failed to parse evaluator response
+"No, there are no allergens listed for any of the recipes in this context.",143,Are there any allergens listed for this recipe?,NON_RELEVANT,Failed to parse evaluator response
+The dietary category for this dish is Keto.,14,"Is there a specific dietary category for this dish? If so, what is it?",NON_RELEVANT,Failed to parse evaluator response
+"Based on the provided list of recipes, it seems that the question was not answered as there is no specific information asked about ingredients required for preparation. If you have any additional details or if there's anything else I can help with, please let me know!",91,What ingredients are required for preparation?,NON_RELEVANT,Failed to parse evaluator response
+"The nutritional information of Spaghetti Carbonara is as follows:
+
+- Calories: 403 kcal
+- Protein: 14.4g (from quinoa)
+- Carbohydrates: 31.2g (from kale, onion, bell pepper, broccoli, mushrooms, spinach)
+- Fats: 31.1g (mainly from oil and avocado)
+- Total nutritional value: 408 kcal
+
+This dish is suitable for a low-carb diet, and it includes all of the required ingredients listed in the context provided.",190,What is the nutritional information of Spaghetti Carbonara?,NON_RELEVANT,Failed to parse evaluator response
+"Instructions for grilling or air frying Vegetable Stir-Fry:
+
+For Grilled Version:
+- Combine all ingredients in a bowl.
+- Use grill to cook or blend according to equipment needed and nutritional information provided.
+
+For Air Fryer Version:
+- Sauté ingredients on Air Fryer. 
+- Add seasoning, cook thoroughly.
+- Serve warm and enjoy with your favorite topping.
+
+Grilled Instructions:  
+- Heat the grill.
+- Season the vegetables with your desired spices or marinade before grilling.
+- Cook until tender and serve with rice or noodles.
+
+Air Fryer Instructions:
+- Set your Air Fryer to medium-high heat.
+- Arrange the ingredients in a single layer in the air fryer basket, making sure they don't touch each other. 
+- Sprinkle any additional spices or herbs at this stage if desired.
+- Cook for the recommended time, adjusting according to the manufacturer's recommendations for cooking times in your specific appliance.
+- Serve with your preferred dipping sauce.
+
+Preparation Tips:  
+- For best results, always start grilling or air frying before adding ingredients. 
+- Don't overcrowd the grill or fryer; this will prevent even heating and may result in undercooked or overcooked parts of the dish.
+- Adjust the temperature setting on your Air Fryer if necessary for different types of meats or vegetables to ensure the desired cooking time is achieved.
+
+Always consult with a healthcare provider before beginning any weight loss, exercise, or dietary program. Results will vary from person to person and are not guaranteed.",124,Can you provide instructions on how to grill or air fry this dish?,NON_RELEVANT,Failed to parse evaluator response
+"Yes, you can use a slow cooker instead of a stove for cooking Spaghetti Carbonara. Follow the instructions in the recipe to prepare the dish and serve it as instructed. If you have a slow cooker, follow the slow-cooker instructions on the packaging or consult your local recipe resource for specific instructions. Enjoy your meal!",75,Can I use a slow cooker instead of a stove for cooking this Spaghetti Carbonara?,NON_RELEVANT,Failed to parse evaluator response
+There are no common allergens listed in the provided nutrition database for any of the recipes mentioned.,96,Are there any common allergens listed?,NON_RELEVANT,Failed to parse evaluator response
+"The nutritional information for the Spaghetti Carbonara dish is as follows:
+
+- Calories: 403 kcal
+- Protein: 14.4g
+- Carbohydrates: 31.2g
+- Fat: 31.1g
+
+For the Greek Salad, here's the information:
+- Calories: 625 kcal
+- Protein: 11.5g
+- Carbohydrates: 47.1g
+- Fat: 9.0g
+
+The Avocado Toast nutritional information is as follows:
+- Calories: 184 kcal
+- Protein: 8.8g
+- Carbohydrates: 28.1g
+- Fat: 2.3g
+
+For the Chicken Stir-Fry, the nutritional data is:
+- Calories: 593 kcal
+- Protein: 10.3g
+- Carbohydrates: 17.7g
+- Fat: 19.0g
+
+The Vegetarian Salad recipe has the following nutritional information:
+- Calories: 582 kcal
+- Protein: 18.0g
+- Carbohydrates: 62.7g
+- Fat: 9.5g
+
+The Vegan Avocado Toast nutritional data is:
+- Calories: 353 kcal
+- Protein: 9.0g
+- Carbohydrates: 33.1g
+- Fat: 4.8g
+
+For the Caesar Salad, here are the details:
+- Calories: 353 kcal
+- Protein: 9.0g
+- Carbohydrates: 33.1g
+- Fat: 4.8g
+
+The Vegetable Stir-Fry recipe provides nutritional information:
+- Calories: 582 kcal
+- Protein: 18.0g
+- Carbohydrates: 62.7g
+- Fat: 9.5g
+
+For the Chicken Stir-Fry, here are the nutritional details:
+- Calories: 593 kcal
+- Protein: 10.3g
+- Carbohydrates: 17.7g
+- Fat: 19.0g
+
+The Spaghetti Carbonara has a nutritional breakdown of:
+- Calories: 403 kcal
+- Protein: 14.4g
+- Carbohydrates: 31.2g
+- Fat: 31.1g
+
+For the Oatmeal with Berries, here's what you can expect:
+- Calories: 603 kcal
+- Protein: 30.5g
+- Carbohydrates: 62.3g
+- Fat: 11.0g
+
+The Lentil Soup nutritional information is as follows:
+- Calories: 519 kcal
+- Protein: 10.3g
+- Carbohydrates: 35.1g
+- Fat: 13.4g
+
+Lastly, the Turkey Sandwich has the following nutritional data:
+- Calories: 356 kcal
+- Protein: 10.3g
+- Carbohydrates: 75.3g
+- Fat: 33.2g",6,What are the nutritional information?,NON_RELEVANT,Failed to parse evaluator response
+"Unfortunately, as there are multiple recipes listed with different nutritional information, I am unable to provide a single value for the entire meal or recipe without additional data. Please specify which recipe you would like to know the nutritional information of, and I will be happy to help!",182,What is the nutritional information of this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"Yes, there is dairy in the recipe as it contains milk, which is a type of cream that comes from cows or other mammals and can be found in various dairy products. The ingredients include onion, garlic, and tomato, which are not specifically listed as having any dairy component in their nutritional information but may have been cooked with milk or another form of dairy product during the preparation process. However, to ensure a strictly dairy-free recipe, it is advisable to check the final list of ingredients to confirm there is no mention of cheese, butter, yogurt, cream, or other common sources of dairy protein and fat.",17,Is there any dairy in the recipe?,NON_RELEVANT,Failed to parse evaluator response
+"This recipe contains the following nutritional information:
+
+- Total kcal: 738
+- Protein: 45.3g (from cheese, cucumber, spinach, and avocado)
+- Carbs: 16.1g (from cheese, avocado, and bell pepper)
+- Fats: 29.1g (from avocado, and all other ingredients combined)
+
+Please note that this information is based on the provided recipe ingredients and instructions, which do not include additional servings or quantities for each ingredient. These nutritional values can vary slightly depending on actual serving sizes of ingredients used in your version of the recipe.",50,What nutritional information is provided for this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"The recommended cooking method for falafel wrap is using an Air Fryer or Stove as it provides a crisp texture and avoids the use of oil, which may affect the nutritional value of the dish. Other popular methods include blending in an Instant Pot or oven before serving to ensure a soft and fluffy texture. For example, you could blend all ingredients using an Instant Pot for quick and easy preparation, or cook the vegetables until tender and serve them on top of your wrap.",135,What is the recommended cooking method for falafel wrap?,NON_RELEVANT,Failed to parse evaluator response
+"No, you cannot substitute avocados with any other vegetable for this recipe because it is specifically stated in the nutritional information that avocado is one of the ingredients included in the recipe. The rest of the ingredients are listed as bell pepper, onion, milk, and mushrooms which are not a substitute for avocados.",87,Can I substitute avocados with any other vegetable for this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"Unfortunately, there is no nutritional information provided for the recipe ""Turkey Sandwich"". The previous recipes have different meal types and dietary categories, but the ""Turkey Sandwich"" recipe does not match any of them in the context. Therefore, based on the given context, we cannot determine the nutritional information for the ""Turkey Sandwich"" recipe.",43,What nutritional information is provided for the recipe?,NON_RELEVANT,Failed to parse evaluator response
+Vegetarian,67,Is this a vegetarian or non-vegetarian dish?,NON_RELEVANT,Failed to parse evaluator response
+"Yes, you can replace tofu with other protein options depending on the recipe and dietary requirements. For example, you could use tempeh in Tofu Curry for a vegetarian option or chickpeas in Tofu Curry for a plant-based option.",131,Can I replace tofu with another protein option?,NON_RELEVANT,Failed to parse evaluator response
+"Soy is generally considered safe to consume in moderation, especially when consumed with other plant-based proteins and in moderate portions. However, it's important to note that soy can cause allergic reactions in some individuals due to the presence of specific compounds known as phytoallergens. If you're unsure about the potential for an allergic reaction, consulting a healthcare professional or allergist is recommended.",145,Is soy safe to consume?,NON_RELEVANT,Failed to parse evaluator response
+This text has no context to provide information about what dietary category the recipe belongs to.,143,What dietary category is this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"No, there is no dairy or soy listed as an allergen in the given recipe context.",38,Is there dairy or soy listed as an allergen?,NON_RELEVANT,Failed to parse evaluator response
+There are no allergens listed in the given context for any of the recipes provided.,76,Is there any allergen listed for this dish?,NON_RELEVANT,Failed to parse evaluator response
+"No, this Avocado Toast recipe does not require specific equipment.",74,"Does this Avocado Toast recipe require specific equipment? If yes, what is it?",NON_RELEVANT,Failed to parse evaluator response
+"The equipment needed for the recipe ""Keto Chicken Salad"" is:
+
+- Grill
+
+The instructions mention that this recipe can be enjoyed in multiple ways, including:
+
+- Snack
+- Lunch
+- Dinner",61,What equipment is needed for this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"There are no specific equipment requirements mentioned for cooking the Keto Chicken Salad recipe. The other recipes listed have different equipment needs, such as a Grill for Falafel Wrap and an Instant Pot or Stove for Mushroom Risotto.",22,Is there any equipment required for cooking this recipe?,RELEVANT,"The generated answer directly addresses the question of whether any equipment is required for cooking the Keto Chicken Salad recipe, providing a clear and concise response that meets the user's inquiry."
+"Please note that this is a fictional context created for the purpose of assisting with answers to questions. In real life, there are no specific contexts related to allergies as listed here. However, we can provide general information about what types of food might potentially cause allergic reactions based on our nutrition database.
+
+Allergens can vary widely and may include various components found in different foods. These substances that are considered allergenic or potential allergens in certain individuals include:
+
+1. **Foods**: Commonly, peanuts, tree nuts (such as almonds, walnuts, cashews), shellfish (like shrimp, crab, and lobster), fish (salmon, tuna, and others), wheat, eggs, dairy products (cow's milk, cheese, and other processed versions like evaporated milk or cheese curds), soy, and certain grains.
+
+2. **Dyes**: Artificial food colors can be allergens for some people.
+
+3. **Preservatives**: Some preservatives are known to cause allergic reactions in those with specific sensitivities to them (such as MSG).
+
+4. **Food additives:** These substances may also contribute to an allergic reaction, including monosodium glutamate (MSG), artificial flavors, and sweeteners like high-fructose corn syrup.
+
+5. **Processed foods**: Foods that contain additives or preservatives from allergens can potentially trigger reactions in some individuals.
+
+6. **Allergenic seeds and oils**: Some nuts and seeds are known to be allergic triggers due to their protein content or presence of allergens found in their shells, coatings, or cores.
+
+It's important to note that not all individuals have the same reaction to these allergens, and some may experience mild reactions such as hives, while others might experience severe reactions like anaphylaxis. 
+
+Please consult with a healthcare professional for personalized advice regarding potential food allergies.",152,Is there anything I should be aware of as an allergen?,NON_RELEVANT,Failed to parse evaluator response
+"There is no specific equipment needed for this recipe as they are all recipes within the provided context that can be prepared without any particular appliance or tool. The equipment listed in the instructions (Blender, Grill, Instant Pot, Stove) are suitable for preparing and cooking the different dishes with their respective nutritional information.",114,Is there a specific equipment needed for this recipe?,NON_RELEVANT,Failed to parse evaluator response
+The equipment needed for preparing the Mushroom Risotto dish is a Blender and a Stove.,85,What equipment is needed for preparing this dish?,NON_RELEVANT,Failed to parse evaluator response
+"The equipment needed to make this dish is:
+
+- Grill for recipes that require cooking at high temperatures, such as Spaghetti Carbonara and Falafel Wrap.
+- Stove for recipes like Vegan Quinoa Bowl and Shrimp Fried Rice.
+
+For the recipe called ""Falafel Wrap,"" there is no specific equipment mentioned. However, if you're preparing falafels or need to cook them on a grill to get their crispy texture, they can be cooked in an air fryer or oven as well.",165,What equipment is needed to make this dish?,PARTLY_RELEVANT,"The generated answer partially addresses the question by mentioning specific equipment needed for certain recipes. However, it lacks clarity on what equipment is required for all recipes and fails to mention essential cooking tools that are likely needed for most dishes, such as a pot or a utensil set. Additionally, the last paragraph introduces an alternative method for cooking falafels, which seems unrelated to the main topic of the question."
+"To prepare the lentil soup using an Instant Pot, follow these instructions:
+
+1. Sauté ingredients on Instant Pot.
+2. Add seasoning and cook thoroughly.
+3. Serve warm and enjoy.
+
+The preparation time is approximately 18 minutes (not including resting times).",63,How long does it take to prepare the lentil soup using an Instant Pot?,NON_RELEVANT,Failed to parse evaluator response
+"The recipe name provided does not include the necessary nutritional information, including calories, for each ingredient included in the dish. Therefore, I cannot accurately determine the total number of calories in this recipe without additional information from the context or a specific measurement of each ingredient. Please provide the full recipe ingredients and nutritional values to calculate the total calorie count.",13,How many calories are in this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"The equipment needed for cooking include a Grill, an Instant Pot or Air Fryer, and possibly a Blender depending on the recipe being used. It is important to note that while specific equipment may be necessary for certain recipes, having a microwave can also serve as a substitute for some grilling methods. However, it ultimately depends on the particular recipe being prepared.",78,What equipment is necessary for cooking?,NON_RELEVANT,Failed to parse evaluator response
+"Yes, there is dairy in this vegan quinoa bowl as it contains cheese and milk.",181,Is there any dairy in this vegan quinoa bowl?,NON_RELEVANT,"The generated answer contains the same information as the question, but with the opposite implication. The question asks if there is any dairy in the vegan quinoa bowl, and the answer confirms that it does contain dairy, which is not what the question is looking for."
+"The nutritional information of this Falafel Wrap recipe is:
+- Calories: 573 kcal
+- Protein: 26.8g
+- Carbs: 54.7g
+- Fats: 14.6g
+
+This recipe includes ingredients such as bell pepper, spinach, onions, and tomatoes which are all considered to be high in nutrients. However, it's important to note that this recipe is specifically designed for a Keto diet. Therefore, the portion sizes may be smaller than what you would typically find on most menus. The recipe also calls for using an Instant Pot or Stove, so these appliances should be included when preparing this dish. Lastly, the instructions state that the Falafel Wrap can be enjoyed as a breakfast or lunch option, but it's important to note that the serving sizes may vary depending on your individual needs and dietary requirements.",31,What is the nutritional information of this Falafel Wrap recipe?,NON_RELEVANT,Failed to parse evaluator response
+"The recipe_name is Shrimp Fried Rice, and it takes approximately 44 minutes to prepare and cook this recipe in minutes based on the nutritional information provided in the context.",143,How long does it take to prepare and cook this recipe in minutes?,PARTLY_RELEVANT,"The generated answer provides the cooking time, but it does not directly address the question about preparation and cooking time in minutes. However, it does mention 'prepare' which implies that part of the time is used for preparation, making it partially relevant."
+"Falafel Wrap is a recipe for a vegetarian wrap that includes cheese, beans, milk, rice, and cucumber. It's suitable for people following the vegetarian diet and can be prepared using an air fryer or grill. The nutritional information provided indicates a total of 419 calories, with protein at 25.1g, carbohydrates at 65.3g, and fats at 5.5g. Allergens listed include soy and dairy products, as well as certain nuts that may be present in the ingredients used for preparation. The recipe calls for preheating an air fryer before cooking all ingredients together, chilling them for 10 minutes, and enjoying a refreshing meal.",164,What is the recipe for Falafel Wrap?,NON_RELEVANT,Failed to parse evaluator response
+"There are no dietary restrictions or ingredients to avoid based on the provided information from the context about these recipes. All recipes have a variety of ingredients suitable for different dietary needs and preferences, including gluten-free options, paleo diets, vegetarian meals, vegan dishes, keto recipes, and others. Please note that this does not apply to specific allergens unless explicitly mentioned in each recipe's nutritional information or instructions (e.g., shellfish, dairy).",48,Are there any dietary restrictions or ingredients to avoid?,NON_RELEVANT,Failed to parse evaluator response
+The meal type for this Falafel Wrap recipe is Lunch.,129,What is the meal type for this Falafel Wrap recipe?,NON_RELEVANT,Failed to parse evaluator response
+"Unfortunately, there is no nutritional information provided for this recipe named ""Turkey Sandwich"" in the context of the available information.",55,What is the nutritional information for this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"This Greek Salad takes approximately 50 minutes to prepare, including preheating the equipment needed (Grill or Air Fryer) and preparing all ingredients. Cooking time may vary depending on the appliance used for cooking. The instructions listed in the context include preparation steps, such as chopping vegetables and grilling salmon, which contribute to a total of approximately 50 minutes for this meal.",159,How long does it take to prepare and cook this Greek Salad?,NON_RELEVANT,Failed to parse evaluator response
+"The nutritional information for this recipe is as follows:
+
+- Avocado Toast:
+  - Calories: 184
+  - Protein: 8.8g
+  - Carbohydrates: 28.1g
+  - Fat: 2.3g
+
+- Caesar Salad:
+  - Calories: 353
+  - Protein: 9.0g
+  - Carbohydrates: 33.1g
+  - Fat: 4.8g
+
+- Chili Con Carne:
+  - Calories: 229
+  - Protein: 28.8g
+  - Carbohydrates: 15.3g
+  - Fat: 3.6g
+
+- Vegetable Stir-Fry:
+  - Calories: 582
+  - Protein: 18.0g
+  - Carbohydrates: 62.7g
+  - Fat: 9.5g
+
+- Chicken Stir-Fry (gluten-free):
+  - Calories: 622
+  - Protein: 28.0g
+  - Carbohydrates: 72.1g
+  - Fat: 4.8g
+
+- Lentil Soup:
+  - Calories: 519
+  - Protein: 10.3g
+  - Carbohydrates: 35.1g
+  - Fat: 13.4g
+
+- Greek Salad:
+  - Calories: 625
+  - Protein: 11.5g
+  - Carbohydrates: 47.1g
+  - Fat: 9.0g
+
+- Oatmeal with Berries (gluten-free):
+  - Calories: 603
+  - Protein: 30.5g
+  - Carbohydrates: 62.3g
+  - Fat: 11.0g
+
+Please note that the nutritional information for each recipe may vary based on individual ingredients used in preparation and cooking techniques.",145,How much carbs is it?,NON_RELEVANT,Failed to parse evaluator response
+"Yes, this recipe is suitable for a vegetarian diet.",55,Is this recipe suitable for a vegetarian diet?,RELEVANT,"The generated answer directly addresses the question of whether the recipe is suitable for a vegetarian diet, providing a clear and concise affirmative response. The context and content of the answer are closely aligned with the query, demonstrating high relevance."
+"Based on the nutritional information provided, the recipe name ""Chicken Stir-Fry"" is for a lunch or snack option in the Keto dietary category with a serving size of approximately 1 to 2 servings. 
+
+Nutritional breakdown:
+- Calories (per serving): 274 kcal
+- Protein: 38.5g
+- Carbohydrates (per serving): 70.7g
+- Fat (per serving): 8.3g
+
+Please note that this is a rough estimate and actual values may vary depending on the specific ingredients used in preparation. It's recommended to measure servings accurately for precise calorie counts.",142,What are the nutritional values of this stir-fry?,NON_RELEVANT,Failed to parse evaluator response
+"Based on the nutritional information provided for the Turkey Sandwich recipe, there are not specific calories mentioned in the question as it pertains to lunch or any other meal type. However, if you're interested in knowing the nutrients in a turkey sandwich, here's an overview:
+
+- Protein: Around 32.2g (calculated based on 61.1g of carbs and 293 kcal from total calories)
+- Carbohydrates: About 61.1g
+- Fats: Around 2.1g
+
+The sandwich might contain other nutrients like fiber, vitamins, or minerals depending on the specific ingredients used. Please note that these are estimates based on typical serving sizes.
+
+Please provide more context if you're looking for specific nutritional information from this recipe or something different related to lunch sandwiches.",15,How many calories are in the lunch sandwich and what nutrients are in it?,NON_RELEVANT,Failed to parse evaluator response
+"Based on the provided information, it is not possible to determine if the dish can be prepared in under 30 minutes as some of the recipes listed (e.g., Beef Tacos and Avocado Toast) have prep times greater than 30 minutes. All other recipes list prep times of less than or equal to 30 minutes.",171,Can this dish be prepared in under 30 minutes?,NON_RELEVANT,Failed to parse evaluator response
+"In the given context, you can substitute tofu for any other protein depending on your dietary preferences and requirements. For example, if you're following a ketogenic diet, you could use almond flour or coconut flour to replace rice. If you're looking for a higher protein source, such as eggs or chicken, you could include them in your recipe. Just be sure to adjust the cooking times and ingredients accordingly to maintain the nutrition information.",76,Can I substitute tofu with another protein in this dish?,NON_RELEVANT,Failed to parse evaluator response
+"Bite Blenders is located in Northport, NY and offers an array of frozen smoothies for all ages to enjoy. The business is unique because they use a special mixture of banana and pineapple that is not only delicious but also very healthy. They also have a special recipe for kale and banana smoothie which are very nutritious too. With the help of their staff, Bite Blenders offers a wide variety of smoothies including the best frozen banana smoothie you can find in Northport, NY.",91,Is there any allergen information mentioned?,NON_RELEVANT,Failed to parse evaluator response
+Lunch,130,What is the meal type and dietary category of this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"The equipment needed to prepare these recipes are:
+
+- Spaghetti Carbonara: Blender, Stove 
+- Greek Salad: Air Fryer, Grill 
+- Avocado Toast: Blender, Stove 
+- Chicken Stir-Fry: Blender, Stove 
+- Vegetable Stir-Fry: Oven, Gril 
+- Caesar Salad: Stove, Blender
+- Turkey Sandwich: Oven, Stove 
+- Oatmeal with Berries: Blender, Oven 
+- Lentil Soup: Instant Pot, Microwave 
+
+Note that in the given context, it doesn't specify the specific equipment required for each recipe.",160,what is the equipment needed to prepare it?,NON_RELEVANT,Failed to parse evaluator response
+"I'm sorry, but I cannot provide the nutritional information for a recipe without knowing the specific ingredients and quantities used in that particular recipe. Can you please provide more details about the recipe or the list of ingredients? I will do my best to assist with any additional questions or queries regarding nutrition!",35,What is the nutritional information of this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"Topping suggestion for this recipe:
+
+You can serve Oatmeal with Berries with a dollop of Greek yogurt, chopped walnuts, or a sprinkle of cinnamon for added flavor and texture. Another option could be to top it with a tablespoon of peanut butter for a crunchy twist. Enjoy your meal!",185,Can you suggest a topping to serve with this recipe?,PARTLY_RELEVANT,"The generated answer provides suggestions for toppings, which may be relevant to serving with the recipe. However, it does not directly address the question of providing 'a topping' as a specific suggestion, making it partially relevant."
+"There are no dietary restrictions or concerns with the recipe ""Oatmeal with Berries"". It is suitable for vegetarians, vegan diets, and gluten-free lifestyles. The recipe is also safe for those who avoid shellfish due to allergen warnings. For others who are sensitive to nuts, this meal can be considered a suitable option as there are no listed allergens. Therefore, no dietary restrictions or concerns were found with this recipe in the provided context.",122,Are there any dietary restrictions or concerns with this recipe?,NON_RELEVANT,Failed to parse evaluator response
+"The preparation time for the recipe ""Vegetable Stir-Fry"" is not explicitly stated in the provided context, but based on the information given, it typically takes around 51 minutes to prepare and cook. This includes chopping vegetables, cooking, and preparing the dish before serving. Please note that this estimation might vary slightly depending on specific measurements or preferences for certain ingredients.",34,How long does it take to prepare and cook?,NON_RELEVANT,Failed to parse evaluator response
+"Based on the nutritional information provided, here is a breakdown of the total preparation time for each dish:
+
+1. Spaghetti Carbonara: 40 minutes (Preheat Stove + Cook until done)
+2. Greek Salad: 50 minutes (Cook until done + Let it cool slightly before serving)
+3. Chicken Stir-Fry: 33 minutes (Cook until done + Let it cool slightly before serving)
+4. Avocado Toast: 42 minutes (Cook until done)
+5. Vegetable Stir-Fry: 46 minutes (Cook until done)
+6. Caesar Salad: 58 minutes (Preheat the Stove + Cook until done)
+7. Turkey Sandwich: 33 minutes (Preheat the Oven + Cook until done)
+8. Oatmeal with Berries: 54 minutes (Cook until done)
+9. Lentil Soup: 22 minutes (Cook until done)",81,How long does it take to prepare the dish in total?,NON_RELEVANT,Failed to parse evaluator response
+"No, you cannot substitute avocado for tofu if you have no avocados. Avocado is not listed as an ingredient in the recipe and therefore is not available to be used instead of tofu. Avocado is a popular ingredient that can be found in many recipes, but it is not included in this specific recipe.",27,Can I substitute avocado for tofu if I have no avocados?,NON_RELEVANT,Failed to parse evaluator response

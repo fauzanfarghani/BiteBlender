@@ -1,0 +1,819 @@
+id,question
+0,How many calories are there in this recipe?
+0,What is the macronutrient breakdown?
+0,Is soy or dairy included in the dietary category?
+1,What is the nutritional information of this recipe?
+1,Is there anything I should avoid eating with this recipe?
+2,What is the nutritional information for this Greek Salad recipe?
+2,What equipment is needed to prepare this dish?
+2,Can I use a stand mixer instead of an Instant Pot for cooking?
+2,Is there any alternative ingredient for cheese in this recipe?
+2,How long should I cook the salad in the Air Fryer before serving it?
+3,What is the nutritional information of this recipe?
+3,Do you recommend using an Instant Pot or stove for this recipe?
+3,Can I substitute egg with anything else in this recipe?
+3,Is there any equipment needed for this recipe?
+3,Could you suggest a time and temperature to cook this dish on the stove?
+4,How many calories are there in this recipe?
+4,What is the dietary category of this recipe?
+4,Is any dairy used in this recipe?
+5,What is the nutritional information of this recipe?
+5,What equipment is needed for this dish?
+6,What is the dietary category for this recipe?
+6,Is there any equipment needed for cooking?
+6,How long does it take to prepare?
+6,What are the nutritional information?
+6,Are there any allergens mentioned?
+7,What are the nutritional information of this recipe?
+7,How long does it take to prepare?
+7,What equipment is needed for this recipe?
+7,Can I substitute any ingredients in this recipe?
+7,Is it suitable for a gluten-free diet?
+8,What are the ingredients required for Falafel Wrap?
+8,Is the preparation time for this recipe 10 minutes or less?
+9,What ingredients are needed for the recipe?
+9,How long does it take to prepare the dish?
+9,Is the recipe suitable for all dietary categories?
+9,Does the recipe require specific equipment?
+9,Are there any allergens present in the recipe?
+10,How many calories are in this recipe?
+10,What is the nutritional information of Falafel Wrap?
+10,Do you have any equipment needed for making this recipe?
+10,Can I make this recipe with Instant Pot or grill?
+10,What is the duration to prepare it?
+11,{'text': 'What is the nutritional information for this Greek Salad recipe?'}
+11,{'text': 'How long does it take to prepare this recipe on the stove?'}
+11,{'text': 'What equipment is needed for cooking this salad?'}
+11,{'text': 'Is there any dairy in this recipe?'}
+11,{'text': 'Can I substitute chicken with tofu in this recipe?'}
+12,Is it suitable for a vegetarian diet?
+12,How long does it take to prepare this recipe?
+12,What are the nutritional benefits of this meal?
+13,How many calories are in this recipe?
+13,What is the serving size of this recipe?
+13,Is there any dairy or soy in this recipe?
+13,Can I substitute bell pepper with other vegetables?
+13,How long does it take to prepare this recipe?
+14,What is the recipe for Tofu Curry?
+14,"Is there a specific dietary category for this dish? If so, what is it?"
+14,Are there any allergens present in this recipe?
+15,Can I replace the chicken with turkey for this recipe?
+15,What is the nutritional information of this sandwich? Is it suitable for anyone with a dietary restriction?
+15,How long should I grill the vegetables for?
+15,How many calories are in the lunch sandwich and what nutrients are in it?
+16,"{'recipe_name': 'Oatmeal with Berries', 'meal_type': 'Breakfast', 'dietary_category': 'Keto', 'ingredients': 'milk, avocado, egg, beans, chicken'}"
+16,"{'equipment_needed': 'Oven, Air Fryer', 'nutritional_information': '277 kcal, Protein: 20.2g, Carbs: 37.7g, Fats: 6.6g', 'instructions': '1. Sauté ingredients on Oven. 2. Add seasoning and cook thoroughly. 3. Serve warm and enjoy.'}"
+16,{'allergens': 'Shellfish'}
+16,{'prep_time_minutes': '59'}
+17,What is the dietary category of this recipe?
+17,How long does it take to prepare?
+17,Can I use a rice cooker instead of an Air Fryer?
+17,Is there any dairy in the recipe?
+17,What are the nutritional values of the meal?
+18,What is the dietary category of this recipe?
+18,How long does it take to prepare the recipe?
+18,Can I use dairy in this recipe?
+19,What is the nutritional information of this recipe?
+19,How long does it take to prepare this recipe?
+19,What equipment is needed for this recipe?
+19,Is there anything I need to avoid while preparing this recipe?
+19,Can you suggest any side dishes that would go well with this curry?
+20,What is the nutritional information of this sandwich?
+20,Can I substitute chicken for turkey if needed?
+20,How long should I prepare vegetables and beans before cooking with blender?
+20,Are there any allergens in this recipe?
+20,Is it possible to make this recipe without using an air fryer?
+21,Falafel Wrap
+21,Dairy and Soy Safe?
+21,Prep Time
+21,Gluten-Free Option Available?
+21,Equipment Required
+22,What are the ingredients needed for Spaghetti Carbonara?
+22,Is there any equipment required for cooking this recipe?
+23,What is the nutritional information for this recipe?
+23,Are there any allergens listed?
+23,How long does it take to prepare?
+23,Is this a lunch or dinner recipe?
+23,Can I substitute tofu with another protein?
+24,"How long does it take to make pancakes with tofu, cheese, avocado, beans, and quinoa?"
+24,"What equipment is needed for making pancakes with tofu, cheese, avocado, beans, and quinoa?"
+25,What is the nutritional information for this recipe?
+25,Is there anything on the list of equipment needed that I don't have?
+25,Are there any dietary restrictions or considerations for this recipe?
+26,What is the nutritional information for this Vegan Quinoa Bowl recipe?
+26,Do you need any equipment to prepare this dish?
+27,What is the nutritional information of this recipe?
+27,Can I substitute avocado for tofu if I have no avocados?
+27,What temperature should I cook ingredients on Grill for Avocado Toast?
+27,Are there any dairy or gluten-containing ingredients in this recipe?
+28,What is the nutritional information for this recipe?
+28,Is egg a dietary choice in this recipe?
+28,Are there any allergens mentioned?
+28,How long does it take to prepare and cook using the grill?
+28,Can the air fryer be used as an equipment needed?
+29,What is the nutritional information for this vegan quinoa bowl recipe?
+29,What equipment is needed to prepare this recipe?
+29,Is there any allergen listed in the dietary category?
+29,How long does it take to prepare this recipe?
+30,What are the nutritional information of this turkey sandwich?
+30,How long does it take to prepare?
+30,What equipment is needed for this recipe?
+30,Are there any allergens listed?
+31,What is the nutritional information of this Falafel Wrap recipe?
+31,Can I substitute chicken for the protein in this recipe?
+31,How long should I cook the vegetables using the grill?
+31,Is there a specific equipment needed for this recipe?
+31,What are the dietary considerations for this dish?
+32,What is the meal type for this recipe?
+32,Is this a low-carb or high-carb diet?
+32,How many calories are there in this dish?
+32,Do I need to use an air fryer or grill for cooking?
+32,Are there any allergens mentioned in the instructions?
+33,How many calories are in this recipe?
+33,What is the nutritional information for Chili Con Carne?
+33,Do you need to prepare this with an egg?
+34,What is the nutritional information for this Spaghetti Carbonara recipe?
+34,How long does it take to prepare and cook?
+35,What is the nutritional information of this recipe?
+35,Is there any equipment needed for this recipe?
+35,How long does it take to prepare this recipe?
+35,Are there any dietary restrictions in this recipe?
+35,Can I serve this with any meal?
+36,How many calories does the recipe have?
+36,What is the protein content of the salmon?
+37,What is the nutritional information for this Spaghetti Carbonara recipe?
+37,How long does it take to prepare? How many ingredients are needed?
+37,What equipment is needed for this dish?
+37,Are there any allergens in this recipe?
+37,Is this a vegetarian or non-vegetarian dish?
+38,How many calories are in this oatmeal with berries recipe?
+38,Is there dairy or soy listed as an allergen?
+38,What is the cooking time for this meal?
+38,Can I substitute kale with another leafy green for this recipe?
+38,What type of equipment is needed for this dish?
+39,How many calories are in this Mushroom Risotto?
+39,What's the serving size of this recipe?
+39,Is dairy an allergen in this Mushroom Risotto recipe?
+39,Can I substitute any ingredient if I have allergies?
+40,What is the recipe name?
+40,What meal type is it?
+40,Is it a vegetarian dish?
+40,What are the ingredients used in this recipe?
+40,What equipment is needed for this recipe?
+41,How many calories are there in this recipe?
+41,What is the protein content of this sandwich?
+41,Can I substitute avocado for other ingredients?
+41,Is dairy allowed for someone on a keto diet?
+41,What equipment do I need to prepare this sandwich?
+42,What is the nutritional information of this recipe?
+42,What equipment is needed for cooking?
+42,Is dairy an allergen?
+42,How long does it take to prepare the meal?
+42,Can this be used as a snack?
+43,How many calories are in the recipe?
+43,What is the dietary category of the recipe?
+43,What ingredients are needed for the recipe?
+43,What equipment is required for the recipe?
+43,What nutritional information is provided for the recipe?
+44,What is the nutritional information for this recipe?
+44,What dietary category does this recipe belong to?
+44,Is there any equipment needed for this recipe?
+44,What is the cooking time required for this recipe?
+44,How do I serve this recipe?
+45,Can I substitute soy milk with lactose-free milk for tofu?
+45,What are the nutritional values of this dish?
+45,How long does it take to prepare this recipe?
+45,Is there any equipment required besides stovetop?
+45,Is the allergen information suitable for a vegan diet?
+46,What is the nutritional information of the Caesar Salad recipe?
+46,What equipment is needed for making the Caesar Salad?
+46,Is there a specific dietary category mentioned in the recipe?
+47,What is the nutritional information for this Mushroom Risotto?
+47,Can I substitute any ingredients for this recipe?
+48,What is the nutritional information of the Avocado Toast recipe?
+48,Can I substitute quinoa with another grain for this recipe?
+48,Is there a specific equipment needed for cooking this dish?
+48,Are there any dietary restrictions or ingredients to avoid?
+48,How long does it take to prepare and cook the avocado toast using Instant Pot and Grill?
+49,What is the nutritional information for this recipe?
+49,Is there any dietary category listed for this recipe?
+50,What is the dietary category of this recipe?
+50,What are the ingredients needed for this recipe?
+50,What equipment is needed for this recipe?
+50,How long does it take to prepare this recipe?
+50,What nutritional information is provided for this recipe?
+51,What is the nutritional information for this recipe?
+51,What equipment is needed to prepare this dish?
+52,How long should I chill the pancake mixture before cooking?
+52,What is the nutritional information of these pancakes?
+52,Are there any dietary restrictions for these pancakes?
+53,What is the nutritional information of this recipe? What is its serving size?
+53,Is this recipe suitable for anyone with dietary restrictions? What are the allowed ingredients?
+53,How long does it take to prepare this recipe in total minutes?
+53,Can you provide instructions on how to make the dish? Are there any particular steps that should be emphasized or explained?
+53,What allergens are present in this recipe?
+54,What is the meal type and dietary category of the lentil soup recipe?
+54,Are there any allergens mentioned in the nutritional information?
+54,How many minutes does it take to prepare the lentil soup?
+55,What is the nutritional information for this recipe?
+55,What equipment is needed for this recipe?
+55,Is this recipe suitable for a vegetarian diet?
+55,How long does it take to prepare this recipe in minutes?
+55,Are there any allergens listed for this recipe?
+56,Is this a recipe for Spaghetti Carbonara?
+56,What meal type is it?
+56,When did you make it?
+56,In what dietary category was it made?
+56,What ingredients are used?
+56,How do I prepare it with the equipment needed?
+57,What is the nutritional information for this Greek Salad recipe?
+57,Can this recipe be cooked with an air fryer or a grill?
+57,What equipment do I need to prepare this Greek Salad?
+57,Are there any dietary restrictions required for this recipe?
+58,What is the recipe for Keto Chicken Salad?
+58,"Is this recipe suitable for a vegan diet? If yes, what are the dietary requirements for its preparation?"
+58,What equipment is needed to prepare this dish?
+58,How long does it take to prepare this recipe?
+58,Do I need to use a grill or stove to cook this salad?
+59,What is the recipe for Beef Tacos?
+59,Is there a dietary restriction mentioned in the instructions?
+60,How many calories are in the recipe?
+60,What's the protein content of the salmon?
+60,Can I substitute tofu for salmon?
+60,Is there any dairy involved?
+60,What is the recommended prep time?
+61,What is the nutritional information of this recipe?
+61,How long does it take to prepare this recipe?
+61,Is there any dairy allergen present?
+61,Is this a suitable meal for a gluten-free diet?
+61,What equipment is needed for this recipe?
+62,What is the main ingredient in this recipe?
+62,Is this a vegetarian or non-vegetarian dish?
+62,Do I need to cook this dish using grill equipment?
+62,How many calories does it have per serving?
+62,Are there any allergies mentioned for me to be aware of?
+63,What is the nutritional information for this lentil soup recipe?
+63,Can I substitute the egg in this recipe with a gluten-free alternative?
+63,How long does it take to prepare the lentil soup using an Instant Pot?
+63,Are there any allergens listed for this dish?
+63,Is there any seasoning that goes well with lentils?
+64,What is the recipe for pancakes?
+64,Is this recipe suitable for a snack or a meal?
+64,Does it belong to a specific dietary category? What is it?
+64,How long does it take to prepare the dish using the equipment mentioned?
+65,What is the nutritional information of this recipe?
+65,How long does it take to prepare this recipe?
+65,Is there any equipment needed for this recipe?
+65,Are there any allergens in this recipe?
+65,Can I use a microwave instead of a blender?
+66,{'question': 'What is the nutritional information for this recipe?'}
+66,{'question': 'Can I substitute any ingredients for this recipe?'}
+66,{'question': 'Do you have any equipment recommendations for this dish?'}
+66,{'question': 'Is there a specific diet category this recipe falls under?'}
+66,{'question': 'How long does it take to prepare this chicken stir-fry?'}
+67,What is the recipe for Falafel Wrap?
+67,What type of meal is it?
+67,Is this a vegetarian or non-vegetarian dish?
+67,How many servings are there in one recipe?
+67,What's the nutritional information per serving?
+68,What is the nutritional information of this Spaghetti Carbonara recipe?
+68,Do I need an air fryer or oven to cook this dish?
+69,What is the nutritional information for this recipe?
+69,How long does it take to prepare this recipe?
+69,What equipment do I need for this recipe?
+69,Are there any allergens listed in the ingredients?
+69,Can you suggest a favorite topping to go with this dish?
+70,What is the total calories per serving?
+70,How many grams of protein are there in a serving?
+70,Is milk an ingredient?
+70,What is the nutritional information for this recipe? What is its macronutrient breakdown?
+70,Can I use this equipment to prepare this dish?
+71,What is the dietary category of this recipe?
+71,Is there any specific equipment needed for this dish?
+72,"{'type': 'What is the dietary category of this recipe?', 'answer': 'Vegetarian'}"
+72,"{'type': 'How long does it take to prepare?', 'answer': '14 minutes'}"
+72,"{'type': 'Are there any allergens in this recipe?', 'answer': 'Soy'}"
+72,"{'type': 'What is the meal type of this recipe?', 'answer': 'Snack'}"
+72,"{'type': 'What equipment is needed for preparation?', 'answer': 'Stove, Air Fryer'}"
+73,What is the total nutritional information for Greek Salad?
+73,Is there any dairy or soy in this recipe?
+74,How many calories are in this Avocado Toast recipe?
+74,What is the dietary category of this Avocado Toast recipe?
+74,Can I substitute cheese with a vegan alternative for this Avocado Toast recipe?
+74,"Does this Avocado Toast recipe require specific equipment? If yes, what is it?"
+74,What is the nutritional information for this Avocado Toast recipe?
+75,What is the nutritional information of this Spaghetti Carbonara recipe?
+75,How long does it take to prepare the equipment needed for this recipe?
+75,Can I use a slow cooker instead of a stove for cooking this Spaghetti Carbonara?
+75,Are there any allergens listed in this Spaghetti Carbonara recipe?
+75,What are the specific instructions for preparing and serving this Spaghetti Carbonara dish?
+76,What is the nutritional information of this Spaghetti Carbonara?
+76,Is there any allergen listed for this dish?
+76,How long does it take to prepare this recipe?
+76,Can I substitute tofu with another protein in this dish?
+76,Are there any dairy alternatives available in this vegetarian option?
+77,What is the nutritional information of the pancakes?
+77,How long does it take to prepare the recipe?
+77,What equipment is needed for the recipe?
+78,What is the recipe for Chicken Stir-Fry?
+78,"Is this meal type snack, lunch or dinner?"
+78,Which dietary category does it belong to?
+78,What ingredients are required for preparation?
+78,What equipment is necessary for cooking?
+79,What is the recipe for Greek Salad?
+79,How long should I cook the vegetables using the Microwave?
+79,What equipment do I need to prepare this recipe?
+79,What are the nutritional information of the ingredients used in the recipe?
+79,Is there any alternative ingredient that can be used instead of quinoa in this recipe?
+80,What is the nutritional information of the Chicken Stir-Fry recipe?
+80,Is there a specific equipment needed for this recipe?
+81,Is this recipe suitable for a gluten-free diet?
+81,How many calories does it contain per serving?
+81,What is the nutrient information of this dish?
+81,How long does it take to prepare the dish in total?
+81,What are the allergens present in this recipe?
+82,What is the recipe for this smoothie bowl? What are the ingredients?
+82,Can I adjust the nutritional information to suit my needs?
+82,How long does it take to prepare and serve the dish?
+82,Are there any dietary restrictions or considerations?
+82,Do you have any tips on how to customize this recipe?
+83,How many calories are in the Caesar Salad?
+83,Is there any dairy in this recipe?
+84,What is the dietary category of this recipe?
+84,What are the necessary equipment for cooking this recipe?
+84,Can I substitute any ingredient in this recipe?
+84,How long does it take to prepare and cook this recipe?
+84,Is there anything I should avoid while preparing or eating this recipe?
+85,What is the nutritional information of this recipe?
+85,What equipment is needed for preparing this dish?
+85,Is soy and nuts an allergen in this recipe?
+85,How long does it take to prepare this dish?
+86,What is the dietary category for this recipe?
+86,Is this a vegetarian meal?
+86,How many ingredients are needed for this dish?
+86,What equipment is required for cooking?
+86,What's the nutritional information?
+86,Can I eat nuts on this dish?
+87,Can I substitute avocados with any other vegetable for this recipe?
+87,How long should I cook the Shrimp Fried Rice on the Stove?
+87,What's the nutritional value of this dish?
+87,How much milk should I use for this recipe?
+87,Is there a way to make it gluten-free?
+88,"{'recipe_name': 'Lentil Soup', 'meal_type': 'Breakfast', 'dietary_category': 'Paleo', 'ingredients': ['mushroom, kale, beans, cheese, bell pepper'], 'equipment_needed': 'Microwave, Stove', 'nutritional_information': {'calories': 443, 'protein': 20.9, 'carbs': 78.4, 'fats': 30.9}, 'instructions': ['1. Mix all ingredients in a bowl. 2. Use Microwave to cook or blend. 3. Serve with your favorite topping.'], 'allergens': 'nan', 'prep_time_minutes': 18}"
+89,What is the dietary category for this recipe?
+89,How many nutritional information are provided?
+89,What equipment is needed for this recipe?
+90,what is the dietary category of this recipe?
+90,how long does it take to prepare this recipe?
+90,are there any allergens listed for this recipe?
+91,What is the dietary category for this recipe?
+91,What equipment is needed for cooking?
+91,How long does it take to prepare and cook?
+91,What ingredients are required for preparation?
+91,Is there any allergen information mentioned?
+92,What is the nutritional information for this Shrimp Fried Rice recipe?
+92,What equipment is needed to prepare this recipe?
+93,How many calories are in this Greek Salad recipe?
+93,What is the protein content per serving?
+93,Is there any dairy or shellfish in this meal?
+93,Can I substitute quinoa for rice in this recipe?
+93,What equipment do I need to cook this salad?
+94,What is the dietary category of this recipe?
+95,How many calories are in the turkey sandwich recipe?
+95,What is the nutritional information for the recipe?
+95,Is there any dietary category mentioned for this recipe?
+95,"Does this recipe require equipment? If yes, what is it?"
+95,Can you give me an estimate of how long it takes to prepare this recipe?
+96,How many calories does this recipe have?
+96,What's the serving size of the dish?
+96,Is this a vegetarian or vegan option?
+96,Are there any common allergens listed?
+96,How long does it take to prepare?
+97,What is the nutritional information of this Chicken Stir-Fry recipe?
+97,What are the dietary categories of this recipe?
+98,How long does it take to cook the meal?
+98,What is the nutritional information of the dish?
+98,Do you need any equipment to prepare this recipe?
+98,Are there any allergens present in this recipe?
+98,Can I use an air fryer instead of a stove for cooking?
+99,Can I substitute quinoa for milk in this recipe?
+99,How many calories are in the oatmeal with berries for lunch? Can it be considered a healthy meal option?
+99,What equipment is needed to prepare this recipe and how long does it take to prepare it?
+99,"Is there any dietary category listed for this recipe, and what specific ingredients are included? What type of nutrition information does it provide?"
+100,Can you suggest a substitute for milk in this recipe?
+100,What's the cooking time suggested for falafel wraps?
+100,Is there any alternative to air fryer for making falafels?
+100,How do I ensure my falafel wraps are gluten-free?
+100,Could you recommend a side dish to accompany falafel wraps?
+101,How long should I cook the ingredients using Stove?
+101,Is there any preparation needed before blending?
+101,What is the nutritional information for this recipe?
+101,Do I need any equipment apart from the Stove?
+101,Are there any dietary restrictions or allergies associated with this recipe?
+102,What is the recipe for Mushroom Risotto?
+102,Is it suitable for a gluten-free diet?
+102,Does it require any equipment?
+102,What are the nutritional values mentioned?
+102,How long does it take to prepare?
+103,How many calories are there in this recipe?
+103,What is the protein content per serving?
+103,Are there any allergens mentioned?
+103,How long does it take to prepare this dish?
+103,Can you provide a vegetarian option?
+104,What is the recipe name?
+104,What type of meal is it?
+104,Is it gluten-free?
+104,Does it require specific equipment?
+104,How many calories are in this recipe?
+105,How many calories are in this recipe?
+105,What is the nutritional information of this dish?
+105,Is there any shellfish or gluten in this recipe?
+105,Can I eat this as a snack?
+105,Where do I find this recipe?
+106,How many calories are there in this Greek Salad recipe?
+106,What's the protein content of this meal?
+106,Is this a paleo-friendly dish?
+106,Can I use an Air Fryer for this preparation?
+106,What time does it take to prepare the meal?
+107,What is the dietary category of this recipe?
+107,How long does it take to prepare?
+107,What are the allergens?
+107,Is there a nutritional information?
+107,What equipment do I need?
+108,Can I substitute carrots with another vegetable for this recipe?
+108,How long should I cook Falafel Wrap in the Instant Pot?
+108,What is the nutritional information of Falafel Wrap per serving?
+108,Why does Falafel Wrap need egg and how to prepare it?
+108,Is there any equipment needed other than Air Fryer and Instant Pot?
+109,Is there any dairy in this recipe?
+109,Can I substitute chicken for egg in this recipe?
+109,How long should I chill the lentil soup before enjoying it?
+109,What is the nutritional information of this recipe?
+110,What are the nutritional information of this recipe?
+110,Is there any equipment needed for this recipe?
+111,What is the nutritional information for this Mushroom Risotto recipe?
+111,Is there any equipment needed for cooking this dish?
+112,{'question': 'What is the dietary category of this recipe?'}
+112,{'question': 'What equipment is needed for this recipe?'}
+112,{'question': 'Is there any dairy in this recipe?'}
+112,{'question': 'How long does it take to prepare this recipe?'}
+112,{'question': 'Does this recipe have any allergens listed?'}
+113,What is the nutritional information of this recipe?
+113,How long does it take to prepare this recipe?
+114,What is the nutritional information of this recipe?
+114,Can I substitute any ingredients?
+114,Is there a specific equipment needed for this recipe?
+114,Are there any dietary restrictions?
+114,How long does it take to prepare this recipe?
+115,How many calories are there in this Vegan Quinoa Bowl recipe?
+115,"What is the dietary category of this recipe? Are it vegetarian, vegan or both?"
+115,Do you need any equipment for making this dish? What's needed specifically?
+115,What is the nutritional information? Can you tell me about the macronutrients and micronutrients?
+115,How long does it take to prepare the dish?
+116,What is the nutritional information of Keto Chicken Salad?
+116,What dietary category does it belong to?
+116,How long does it take to prepare?
+116,Is there any allergens in it?
+116,Does it have any equipment needed?
+117,What is the nutritional information of this recipe?
+117,How long does it take to prepare this recipe?
+117,What equipment is needed for this recipe?
+117,Are there any allergens in this recipe?
+117,Is it suitable for a low-carb diet?
+118,Can I substitute chicken for salmon in this recipe?
+118,What is the nutritional information of this recipe?
+118,How long should I chill the ingredients before cooking?
+118,Do I need to use an Instant Pot or can I do it on a grill?
+119,What is the nutritional information of this recipe?
+119,Does this recipe have any allergens?
+120,How many calories are there in this recipe?
+120,What is the protein content of this recipe?
+120,What are the carbs and fats contents of this recipe?
+120,Is this recipe suitable for a keto diet?
+120,Can I substitute milk with almond milk while preparing this recipe?
+121,What is the nutritional information of this avocado toast recipe?
+121,Can I substitute rice with gluten-free pasta for this Avocado Toast?
+122,Can I substitute tofu for chicken in this recipe?
+122,What is the nutritional value of this dish?
+122,How long does it take to prepare this recipe?
+122,What equipment do I need to prepare this recipe?
+122,Are there any dietary restrictions or concerns with this recipe?
+123,What is the total nutritional information for this recipe?
+123,What is the preparation time to complete this dish?
+123,Is there any allergy information mentioned in the record?
+124,What is the nutritional information for this recipe?
+124,Is there anything I should be aware of regarding dietary categories and allergens?
+124,Can you provide instructions on how to grill or air fry this dish?
+124,How long does it take to prepare?
+125,What is the dietary category of this recipe? What type of meal does it serve?
+125,"How many calories are in this recipe, and what's the breakdown of proteins, carbs, and fats?"
+125,Does this recipe have any allergens? Are there any ingredients I should avoid if I'm allergic to nuts or dairy?
+126,What is the total nutritional information for this Smoothie Bowl recipe?
+126,Is there a way to prepare the onion mentioned in the recipe instructions?
+126,What equipment is needed to cook the vegetables in this recipe?
+127,Can I substitute tofu with tempeh or seitan for this recipe?
+127,Is it necessary to use kale as the main ingredient?
+127,Can I add more vegetables like broccoli and bell peppers to increase nutritional value?
+127,Is there a way to reduce sodium content in this dish?
+127,"Does this recipe require any special cooking techniques, such as pressure cooking?"
+128,Is there an alternative ingredient for tofu?
+128,How long should I chill the mixture before enjoying it?
+128,What equipment is needed for preparing this recipe?
+128,Can I substitute garlic with onion in this recipe?
+129,What is the meal type for this Falafel Wrap recipe?
+129,Is this a vegetarian or non-vegetarian dish?
+129,What equipment is needed for this Falafel Wrap recipe?
+130,What is the nutritional information of this recipe?
+130,How long does it take to prepare this recipe?
+130,Is there a specific equipment needed for this recipe?
+130,Can this recipe be made gluten-free?
+130,What is the meal type and dietary category of this recipe?
+131,What is the recipe for Vegetable Stir-Fry?
+131,Is there any dairy in this recipe?
+131,Can I replace tofu with another protein option?
+131,How long should I cook this using Instant Pot or Stove?
+131,What are the nutritional information of this dish?
+131,Can I serve this as a vegetarian meal?
+132,What is the nutritional information for Grilled Salmon?
+132,What dietary category does it belong to? (Gluten-Free)
+132,"What equipment is needed? (Stove, Air Fryer)"
+132,Is there any allergen mentioned in the ingredients? (Eggs)
+132,How long should I prepare and cook it for lunch?
+133,Can I substitute kale with other vegetables for this recipe?
+133,Is there a specific type of egg recommended for this dish?
+133,Can I use any canned bean instead of beans in the recipe? What's the nutritional difference?
+133,"Do I need to cook the salmon before using it in this Greek Salad recipe, or can I keep it cold until serving?"
+133,Are there any dietary restrictions that need to be considered with this meal?
+134,What is the nutritional information of this recipe?
+134,Can I substitute tofu for salmon in this recipe?
+134,Is there any equipment needed to prepare this dish?
+134,How long does it take to prep and cook the ingredients?
+134,Does this dish have any allergens?
+135,What is the recommended cooking method for falafel wrap?
+135,Can I use a blender instead of grill for falafel wrap?
+135,How many calories are in this recipe?
+135,Is there any dairy in this recipe?
+135,What's the total prep time for this recipe?
+136,What equipment is needed for this recipe?
+136,Is there a dairy allergen listed for this dish?
+137,What is the nutritional information of this recipe?
+137,Is there any equipment needed for this recipe?
+138,How long should I cook the salmon on the grill?
+138,What is the nutritional information of this recipe?
+139,What is the recipe for Keto Chicken Salad?
+139,Is this a paleo diet dish?
+139,How long does it take to prepare?
+139,What are the nutritional information?
+139,Are there any allergens in this dish?
+140,What is the nutritional information of the Tofu Curry recipe?
+140,The equipment needed for preparing this recipe include a blender and microwave. Can you confirm?
+140,Is there any requirement for an allergen disclaimer in this recipe?
+140,When should I consume this meal for best results? How does it fit into my dietary choices?
+140,Can you suggest any alternative ingredients to use if quinoa is not available?
+141,What equipment is needed to cook this recipe?
+141,Is quinoa an ingredient in this recipe?
+141,Can I substitute milk with other dairy products?
+141,Does the nutrition information include calories from fat?
+141,What is the prep time for this recipe?
+142,Can I substitute kale with spinach in this recipe?
+142,Is it possible to make this dish gluten-free?
+142,What are the nutritional values of this stir-fry?
+142,How long does it take to prepare and what equipment is needed?
+142,Are there any specific instructions for making this dish in an Instant Pot?
+143,What is the nutritional information for this Turkey Sandwich?
+143,What dietary category is this recipe?
+143,Does this recipe require any equipment?
+143,How long does it take to prepare and cook this recipe in minutes?
+143,Are there any allergens listed for this recipe?
+144,What is the total nutritional information of this Vegan Quinoa Bowl recipe?
+144,Is there a specific equipment needed for cooking this recipe?
+144,How long does it take to prepare this recipe?
+144,What are the allergens in this recipe?
+144,What are the meal type and dietary category of this recipe?
+145,How many calories are there?
+145,What's the protein content?
+145,How much carbs is it?
+145,Is soy safe to consume?
+145,What equipment is needed?
+146,What is the total nutritional information of the Vegan Quinoa Bowl?
+146,Is it suitable for a Vegetarian diet?
+146,Can I include dairy products in this dish?
+147,How many calories are in this recipe?
+147,What are the dietary categories and ingredients used in this Shrimp Fried Rice recipe?
+147,What is the nutritional information for this Shrimp Fried Rice recipe?
+147,Do you need any equipment to prepare this Shrimp Fried Rice recipe?
+147,Is there anything I should be aware of if I have a gluten allergy?
+148,ingredient
+148,dietary_category
+148,equipment_needed
+148,"air fryer, microwave"
+148,nutritional_information
+149,What are the nutritional information and allergens of the Caesar Salad recipe?
+149,How long does it take to prepare the ingredients for the recipe?
+150,What is the nutritional information of this recipe?
+150,What dietary category does it belong to?
+150,Can I substitute quinoa with another grain for this dish?
+150,Is there a specific equipment needed to prepare this recipe?
+150,How long does it take to prepare the ingredients in this recipe?
+151,Is this recipe suitable for vegans?
+151,What are the nutritional information of this dish?
+151,How long does it take to prepare this dish?
+151,What equipment is needed for this recipe?
+151,What dietary category is this recipe under?
+152,How many calories are in this Keto Chicken Salad?
+152,What is the dietary category of this recipe?
+152,Does this dish require equipment? What's included?
+152,What is the nutritional information of this recipe?
+152,Is there anything I should be aware of as an allergen?
+153,What is the nutritional information for this recipe?
+153,How long does it take to prepare?
+153,What equipment is needed?
+153,Is there any dairy in the recipe?
+153,Can this dish be made gluten-free?
+154,What is the nutritional information for this recipe?
+154,How long does it take to prepare this recipe?
+154,Can I substitute any ingredients from this recipe for a vegetarian diet?
+154,Is there anything else I should keep in mind while preparing this recipe?
+154,What equipment is needed for preparing this recipe?
+155,What is the recipe for Mushroom Risotto?
+155,Is this a vegetarian dish?
+155,Can I substitute egg with other ingredient?
+155,How long should I cook the ingredients on the stove?
+155,Does it require any special equipment?
+156,How many calories are in this recipe?
+156,What's the nutritional information of this dish?
+156,Is there any shellfish allergens in this recipe?
+157,What is the nutritional information of this recipe?
+158,What is the recipe for Avocado Toast?
+158,Is this a Keto-friendly dinner option?
+158,What equipment is needed to prepare it?
+158,How long does it take to prepare?
+158,Are there any dietary restrictions?
+159,Is there a dairy-free option for this recipe?
+159,What is the total amount of calories in this meal?
+159,How long does it take to prepare and cook this Greek Salad?
+159,Can this salad be served as a side dish or main course?
+159,What are the nutritional values per serving?
+159,Does this recipe require any specific equipment?
+160,what is the nutritional information for this recipe?
+160,what is the equipment needed to prepare it?
+160,how long does it take to prep and cook it?
+160,are there any dietary restrictions or intolerances?
+160,what meal type is it?
+161,What is the main ingredient of this recipe?
+161,Is there any equipment needed for cooking this dish?
+161,How long does it take to prepare this dish?
+161,Are there any dietary restrictions in this recipe?
+161,What are the nutritional values and allergens of this dish?
+162,What is the nutritional information of this recipe?
+162,What are the dietary categories and allergens?
+162,How long does it take to prepare?
+163,What is the nutritional information for this recipe?
+163,Can I substitute tofu with other protein sources?
+163,How long should I cook the chicken on the Air Fryer?
+163,Is there anything to avoid if I have allergies to soy and nuts?
+163,What are the ingredients needed for this recipe?
+164,What is the recipe for Falafel Wrap?
+164,Which meal type does it belong to?
+164,Is it suitable for a vegetarian diet? Why or why not?
+164,What equipment is needed for this recipe? How long does it take to prepare and cook?
+164,"Are there any ingredients that contain soy, and are they safe to consume?"
+165,What is the nutritional information for this recipe?
+165,Is there any gluten-free option available for this recipe?
+165,Can I substitute avocado with another ingredient in this recipe?
+165,How long does it take to prepare this dish?
+165,What equipment is needed to make this dish?
+166,What is the dietary category of this recipe?
+166,Can this be made without a Grill?
+167,What is the recipe for Beef Tacos? 
+167,Is it a vegan or non-vegan dish?
+167,How long should I chill the ingredients before cooking?
+167,What equipment do I need for this dish?
+168,What is the nutritional information for this recipe?
+168,What are the dietary requirements for this recipe?
+168,Can I substitute quinoa with another grain?
+168,Is the equipment needed for this recipe extensive?
+168,What prep time does it take to prepare this dish?
+169,What is the nutritional information of the recipe?
+169,How long does it take to prepare the recipe?
+169,Is there any allergen mentioned in the instructions?
+170,What is the nutritional information for this recipe?
+170,Can I substitute egg for gluten-free alternative?
+170,How long should I microwave bell pepper before serving?
+170,Are there any allergens mentioned in the instructions?
+170,What are the steps to prepare this dish?
+171,What is the nutritional information for this Mushroom Risotto recipe?
+171,Is there any shellfish listed as an allergen?
+171,Can this dish be prepared in under 30 minutes?
+171,How do I store this Mushroom Risotto for future meals?
+171,Do you recommend serving this with a side salad?
+172,Is this recipe suitable for a vegetarian diet?
+172,What equipment is needed to prepare this dish?
+172,How many calories are in this recipe per serving?
+172,What's the nutritional information of this recipe?
+172,"I'm allergic to dairy, can I still make this dish?"
+173,What is the nutritional information of Caesar Salad?
+173,Is there any dietary category for this recipe?
+174,How long should I cook this recipe on the Stove?
+174,Can I use alternative ingredients to make this dish Paleo-friendly?
+174,What nutritional information does this recipe provide?
+174,Is there any equipment needed for preparing this recipe?
+174,What are the dietary restrictions of this recipe?
+175,What is the nutritional information for this recipe?
+175,Is there anything allergic to this recipe?
+175,How long does it take to prepare this dish?
+176,What ingredients are needed for this lentil soup recipe?
+176,Is there any equipment needed to prepare this soup?
+176,How long does it take to prepare this lentil soup recipe in total?
+176,Does this lentil soup have any dietary restrictions?
+177,What is the recipe for Vegan Quinoa Bowl?
+177,Is there any equipment needed for this dish?
+177,How long does it take to prepare the quinoa bowl?
+177,Can I substitute tofu with other protein sources if I don't have it available?
+177,Is this dish suitable for a vegetarian diet?
+178,How many calories does Greek Salad have?
+178,What is the protein content of Greek Salad?
+178,What are the carbohydrates in Greek Salad?
+178,What fats are in Greek Salad?
+178,Is Greek Salad safe for people with a nut allergy?
+179,What is the recipe for oatmeal with berries? What are the dietary restrictions?
+179,What equipment is needed for this recipe? How long does it take to prepare?
+179,What are the nutritional information of the dish? Are there any allergens mentioned?
+179,Can you provide a brief overview of how to prepare this dish?
+180,What is the dietary category of this recipe?
+180,How long does it take to prepare the dish?
+180,Can I cook or blend this recipe in an oven or grill?
+181,What is the nutritional information for this recipe?
+181,Is there any dairy in this vegan quinoa bowl?
+182,What is the nutritional information of this recipe?
+182,Is there any allergic ingredient?
+182,How long does it take to prepare the recipe?
+182,Can I substitute ingredients for diet needs?
+182,What are the equipment needed?
+183,What is the nutritional information for this recipe?
+183,Can I substitute tofu with another protein?
+184,"What is the nutritional information of the recipe? How many calories, protein, carbs, and fats are contained?"
+184,What equipment is needed for preparing this dish?
+185,What is the nutritional information of this recipe?
+185,How long does it take to prepare this recipe?
+185,What equipment do I need for this recipe?
+185,"If there are any allergens in this recipe, what are they?"
+185,Can you suggest a topping to serve with this recipe?
+186,How many calories are in this pancake recipe?
+186,What is the protein content per serving?
+186,Can I substitute bell pepper for spinach?
+186,Does the recipe have any nuts or seeds?
+186,Is there a vegetarian option available?
+187,What is the serving size of this Greek Salad?
+187,How long should I air fry these ingredients for the recipe?
+187,Can I substitute quinoa with another grain in this recipe?
+188,Can I substitute chicken with tofu in this recipe?
+188,Is it necessary to use an Instant Pot for this Lentil Soup recipe?
+188,Will the nutritional information change if I reduce the protein from lentils to beans?
+188,Does this recipe require any specific equipment or tools besides the Instant Pot?
+188,Is there anything else I need to keep in mind while preparing this dish?
+189,What is the dietary category of this recipe?
+189,What are the necessary equipment needed for cooking these pancakes?
+189,How many calories does it have?
+189,Is there any allergic ingredient in this recipe?
+189,What time do I need to prep this recipe?
+190,What is the nutritional information of Spaghetti Carbonara?
+190,How long does it take to prepare?
+190,What equipment do I need for this recipe?
+190,Is there any preparation time required before serving?
+190,Do I need to avoid nuts or gluten during this meal?
+191,What are the nutritional information of this recipe?
+191,Is there any allergen listed for this dish?
+191,How long does it take to prepare and how many servings can I make from this recipe?
+192,What is the nutritional information of this recipe?
+192,What equipment is needed for cooking?
+193,"{'type': 'What is the name of the recipe?', 'answer': 'Greek Salad'}"
+193,"{'type': 'What meal type is this recipe for?', 'answer': 'Breakfast'}"
+193,"{'type': 'Is this a vegetarian or non-vegetarian dish?', 'answer': 'Vegetarian'}"
+193,"{'type': 'What are the required ingredients for this Greek Salad?', 'answer': 'Onion, chicken, kale, spinach, milk'}"
+193,"{'type': 'What equipment is needed to prepare this recipe?', 'answer': 'Instant Pot or Grill'}"
+194,What is the recommended cooking equipment for this recipe?
+194,How long should I chill the salad before enjoying it?
+194,Is there any dairy component that might affect the nutritional information?
+195,What is the nutritional information of this recipe?
+195,What equipment is needed for cooking this recipe?
+196,How long should I chill the Caesar Salad before serving?
+196,What equipment do I need to cook this recipe?
+196,Is there any alternative ingredient for salmon in this recipe?
+196,Can this salad be made ahead of time and still be delicious?
+196,What is the nutritional value of this meal?
+197,What is the dietary category of this recipe?
+197,How many calories are in this recipe?
+197,Can I substitute tofu for salmon in this recipe?
+197,What equipment is needed for cooking this recipe?
+197,Is there any allergen listed in this recipe?
+198,How many calories are in this recipe?
+198,What is the protein content of this recipe?
+198,How much carbs are in this recipe?
+198,What fats are in this recipe?
+198,Is there any dairy included in this recipe?
+199,How many calories are there in this recipe?
+199,What is the nutritional information of the pancakes?
+199,Can I replace soy with a different allergen?
+199,Is it necessary to use an Instant Pot for cooking or blending the ingredients?
+199,Do you have any suggestions for toppings?
